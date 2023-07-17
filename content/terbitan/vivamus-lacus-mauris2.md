@@ -1,12 +1,20 @@
-+++
-date = "2013-06-17T12:00:00-00:00"
-title = "Terbitan2 Vivamus Lacus Mauris"
+---
+title: "PEMERIKSAAN LABORATORIUM DIAGNOSIS DERMATOMIKOSIS SUPERFISIALIS "
+date: 2023-07-17T04:01:11.600Z
+---
+**Harga:** Rp. 50.000\
+**Penulis:**
 
-+++
+dr. Evy Ervianti, Sp.KK(K)\
+Dr. dr. Trisniartami Setyaningrum, Sp.KK(K)\
+dr. Rahmadewi, Sp.KK(K)\
+dr. Linda Astari, Sp.KK(K)\
+dr. Hasnikmah Mappamasing, Sp.KK(K), M.Kes.\
+dr. Sylvia Anggraeni, Sp.KK(K)\
+dr. Yuri Widia, Sp.KK(K)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae. Adipisci ad natus deleniti.
+Dermatomikosis adalah infeksi jamur yang menyerang kulit, sedangkan dermatofitosis adalah penyakit pada jaringan yang mengandung zat tanduk. Jamur penyebabnya ada dua yaitu jamur komensal (Candida sp., Malassezia sp.) dan jamur non komensal (dermatofita, jamur kapang/mold).
 
-Dolores harum alias consequatur blanditiis. Inventore, quod, ullam veritatis eum ratione neque quis fugit quae optio facilis in ipsa! Maiores, quia, possimus repellendus iusto nostrum nisi doloribus qui excepturi ducimus veritatis molestiae autem consequatur quae ex nihil id sapiente minima adipisci. Quibusdam, aperiam, sapiente, nobis, possimus vero laudantium delectus esse minus quo nihil perspiciatis accusamus. Cupiditate sapiente illum accusantium animi pariatur sed minima nam.
+Pemeriksaan sediaan jamur adalah pemeriksaan laboratorium penunjang untuk mengetahui diagnosis penyakit jamur pada kulit (dermatomikosis). Pemeriksaan ini dapat menunjang percepatan penyembuhan dengan mengetahui penyebab yang pasti sehingga penentuan obat dan treatment menjadi efektif.
 
-Harum, consectetur, quia nisi fugiat quasi ea amet cum inventore aperiam optio qui perspiciatis debitis molestiae laborum minima doloremque ullam eum nesciunt repellendus dolor dicta cumque deserunt. Quaerat, saepe, maxime, quod, dolor nisi assumenda aut est quos optio animi aliquid quidem voluptates adipisci hic recusandae dicta quis eligendi illo ducimus asperiores reiciendis odit distinctio natus? In, reprehenderit, facere, ipsam, vel architecto autem temporibus a quidem voluptatum at nesciunt quas facilis. Soluta, excepturi, nihil, illum dicta hic ratione tenetur voluptate dolorum a tempore dignissimos reprehenderit voluptas expedita officiis enim minus adipisci?
-
+![](/images/uploads/isbn-pemeriksaan-derma.jpg)
