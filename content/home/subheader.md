@@ -6,4 +6,4 @@ title: home
 
 **PT Pustaka Saga Jawadwipa**
 
-![](/uploads/gggg.jpg)
+![](/images/uploads/gggg.jpg)
