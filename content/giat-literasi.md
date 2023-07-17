@@ -4,6 +4,4 @@ type: about
 weight: 4
 title: Giat Literasi
 ---
-
-
-![about](/uploads/mil-5.jpg)
+![about](/images/uploads/mil-1.jpg)
