@@ -1,18 +1,15 @@
-+++
-menu = "main"
-title = "Tentang Kami"
-type = "about"
-weight = 3
-+++
+---
+menu: main
+type: about
+weight: 3
+title: Tentang Kami
+---
+![about](/images/uploads/17952944_1667884916854011_5984558549685735420_n.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
-
-![about](../images/mac.jpg)
-
-### Necessitatibus
-
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
-
-### Fugit, laboriosam
-
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+PT Pustaka Saga Jawadwipa biasa dikenal dengan Pustaka Saga adalah penerbit yang berdomisili di Kota pahlawan Surabaya. Didirikan oleh tiga alumni Unair. Pustaka Saga konsisten membersamai sahabat-sahabat pembaca dengan menerbitkan buku-buku sosial humaniora, kepemudaan, sastra, sains dan pemikiran.\
+\
+PUSTAKA SAGA\
+(PT Pustaka Saga Jawadwipa)\
+jl. kedinding lor, gg. Delima 4A Surabaya\
+085655396657\
+pustaka.saga23@gmail.com
