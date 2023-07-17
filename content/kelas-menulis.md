@@ -1,18 +1,13 @@
-+++
-menu = "main"
-title = "Kelas Menulis"
-type = "about"
-weight = 5
-+++
+---
+menu: main
+type: about
+weight: 5
+title: Kelas Menulis
+---
+![](/images/uploads/kelas-menulis-anis.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+![](/images/uploads/kelas-menulis.jpg)
 
-![about](../images/mac.jpg)
+![](/images/uploads/11066079_1426520164323822_8919677838785796827_n.jpg)
 
-### Necessitatibus
-
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
-
-### Fugit, laboriosam
-
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+![](/images/uploads/10801736_10203797667285419_7040099235766028408_n.jpg)
