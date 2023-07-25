@@ -3,7 +3,7 @@ layout: post
 title: INDONESIA NEGARA HUKUM
 date: 2023-07-23T22:44:48.108Z
 ---
-![](/images/uploads/indonesia-negara-hukum-2.jpg)
+![](/images/uploads/isbn-indonesia.jpg)
 
 **P﻿enulis:** H.M.I. EL HAKIM\
 **H﻿arga:** Rp. 60.000
