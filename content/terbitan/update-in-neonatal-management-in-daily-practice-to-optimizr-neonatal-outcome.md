@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update in Neonatal Management in Daily Practice to Optimizr Neonatal Outcome
+title: Update in Neonatal Management in Daily Practice to Optimize Neonatal Outcome
 date: 2023-07-27T14:49:37.965Z
 ---
 ![](/images/uploads/neonathal-managemen.jpg)
