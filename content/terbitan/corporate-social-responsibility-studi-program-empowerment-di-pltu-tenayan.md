@@ -6,7 +6,7 @@ date: 2023-08-08T05:21:13.961Z
 ![](/images/uploads/csr-isbn.jpg)
 
 **P﻿enulis:** \
-Dimas Satriyo Hutomo, S.H.
+Dimas Satriyo Hutomo, S.H. &
 Junaidi Ade Saputra, S.E.\
 \
 **H﻿arga:** Rp. 80.000\
