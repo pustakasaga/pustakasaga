@@ -5,11 +5,9 @@ date: 2023-08-17T05:30:45.410Z
 ---
 ![](/images/uploads/transforming-future-health.jpg)
 
-**P﻿enulis:** Amelia Susanti, Angkit Kinasih, Catherine Natawirarindry, Citra Sari, Dhanang Puspita, Diah Nur Anisa, Estriana, Hendri Tamara Yuda 
+**P﻿enulis:** Ika Nur Pratiwi, Angkit Kinasih, Catherine Natawirarindry, Citra Sari, Dhanang Puspita, Diah Nur Anisa, Estriana, Hendri Tamara Yuda 
 
 **H﻿arga:** Rp. 60.000
-
-
 
 Buku ini dibuat sebagai upaya berkelanjutan untuk merangkul perubahan cepat di dunia kesehatan. Kita harusmempersiapkan dan memanfaatkan pendekatan inovatif dalam menghadapi masalah sosial, ekonomi, danperubahan lingkungan. Juga, kita harus membantu penduduk mencapai kesehatan yang berkelanjutan dan meningkatkan ketahanan iklim, terutama melalui dunia kesehatan, penelitian, dan lingkungan.
 
