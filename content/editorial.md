@@ -3,4 +3,6 @@ type: about
 weight: 4
 title: Editorial
 ---
-j﻿jjj
+![](/images/uploads/kop-jurnal-saga.jpg)
+
+![]()
