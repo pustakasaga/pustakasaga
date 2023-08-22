@@ -40,7 +40,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name = "jurnal saga"
     url = "/jurnal-saga/"
-    weight = 3
+    weight = 10
 #[[menu.main]]
     #name = "blog"
     #url = "/blog/"
