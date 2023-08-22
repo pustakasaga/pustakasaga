@@ -3,7 +3,9 @@ type: about
 weight: 4
 title: Jurnal Saga
 ---
-[About Journal](/about-journal/)
+
+
+[Editorial](/Editorial/)
 
 [Call For Paper](/call-for-paper/)
 
