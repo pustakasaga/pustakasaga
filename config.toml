@@ -37,6 +37,10 @@ pluralizelisttitles = false
     name = "terbitan"
     url = "/terbitan/"
     weight = 2
+[[menu.main]]
+    name = "jurnal saga"
+    url = "/jurnal-saga/"
+    weight = 3
 #[[menu.main]]
     #name = "blog"
     #url = "/blog/"
