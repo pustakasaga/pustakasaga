@@ -52,8 +52,8 @@ collections:
     slug: "{{slug}}" 
     summary: "{{title}}"
     fields: 
-      - {label: "Menu", name: "menu", widget: "hidden", default: "main"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "main",required: false}
       - {label: "Type", name: "type", widget: "hidden", default: "about"}
-      - {label: "Wight", name: "weight", widget: "hidden", default: "10"}
+      - {label: "Wight", name: "weight", widget: "hidden", default: "10",required: false}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
