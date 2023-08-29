@@ -22,6 +22,26 @@
       }
     </script>
 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZSNJ29WKK"></script>
+    <script>
+        if (window.location.href.indexOf("localhost") > -1) {
+                  console.log('local development:localhost');
+                  var islocaldevelopment = true;
+              }
+              else
+              {
+                if (window.location.href.indexOf("127.0.0.1") > -1) {console.log('local development:127.0.0.1');} else {var islocaldevelopment = false;
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+
+                  gtag('config', 'G-08CSLJH06G');
+                }
+              }
+              
+
+    </script>
+
   </head>
   
   <body class="home">
