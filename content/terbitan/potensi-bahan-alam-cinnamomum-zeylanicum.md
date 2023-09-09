@@ -9,7 +9,7 @@ date: 2023-09-09T10:21:26.360Z
 **P﻿enulis:** Vita Meylani, Rinaldi Rizal Putra, Muhammad Miftahussurur dan Sukardiman\
 \
 \
-**H﻿arga:**Rp. 65.000\
+**Harga:** Rp. 65.000\
 \
 Buku ini mengkaji pemanfaatan Cinnamomum zeylanicum sekaligus mengungkap betapa mengagumkannya potensi tumbuhan ini dan kontribusinya terhadap kesehatan manusia, terutama dalam perawatan Candidiasis oral. 
 	Pada bagian Potensi bahan Alam, dijelaskan mengenai pemanfaatan tumbuhan yang telah menjadi sumber inspirasi bagi manusia selama berabad-abad. Hal tersebut dapat dilihat dari pemanfaatan tumbuhan untuk berbagai kebutuhan, mulai dari obat-obatan hingga kosmetik, makanan, dan bahan baku industri. 		
