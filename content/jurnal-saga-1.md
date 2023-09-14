@@ -5,7 +5,7 @@ title: Jurnal Saga
 ---
 ![](/images/uploads/kop-jurnal-saga.jpg)
 
-The SAGA journal is a peer-reviewed scientific journal which is published twice a year, in August and December. This journal is made for researchers and academics, as well as the general public and has an interest in the repertoire of social sciences, economics, law, education and humanities.\
+The SAGA journal is a peer-reviewed scientific journal which is published twice a year, in August and December. This journal is made for researchers and academics, as well as the general public and has an interest in the repertoire of social sciences, economics, law, education, psychology and humanities.\
 \
 [Editorial](/Editorial/)
 
