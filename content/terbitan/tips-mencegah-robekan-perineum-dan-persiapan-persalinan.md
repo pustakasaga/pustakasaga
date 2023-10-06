@@ -5,11 +5,9 @@ date: 2023-10-05T06:36:29.545Z
 ---
 ![](/images/uploads/isbn-persalinan.jpg)
 
-**P﻿enulis:** Eighty Mardiyan Kurniawati,
-Gatut Hardianto, Hari Paraton, Tri Hastono Setyo Hadi, 
-Riska Wahyuningtyas, M Dimas Abdi Putra\
+**P﻿enulis:** Eighty Mardiyan Kurniawati, Nur Anisah Rahmawati, Vina Firmanty Mustofa, Cahyani Tiara Safitri, dan Mardianti\
 \
 **H﻿arga:** Rp. 60.000\
 \
-Buku anatomi dasar panggul ini hadir dalam rangka membantu memenuhi kebutuhan peningkatan pengetahuan dan keterampilan di bidang uroginekologi dan rekonstruksi yang semakin hari semakin meningkat permintaan pelayanannya oleh masyarakat luas. Sebelum memahami berbagai kasus uroginekologi, penting untuk memahami anatomi dasar panggul.\
-	Buku ini berisi informasi pokok dan penting tentang anatomi dasar panggul. Buku ini diharapkan dapat memenuhi kebutuhan dalam menyelesaikan masalah pasien terkait uroginekologi dan rekonstruksi, khususnya dengan pemahaman dasar terkait anatomi dasar panggul.
+Rupture/robekan perineum dapat menyebabkan kematian akibatadanya perdarahan dari jalan lahir, sedangkan setiap persalinan pervaginam berisiko mengalami hal tersebut. Angka kejadian robekan perineum menunjukkan lebih dari 53-89% wanita akan mengalami beberapa bentuk laserasi perineum pada saat melahirkan. Kebanyakan laserasi perineum yang terjadi pada persalinan pervaginam dapat diklasifikasikan sebagai derajat pertama atau kedua. Penelitian menemukan bahwa dari robekan ini, 60-70% memerlukan penjahitan.
+	Buku “Tips mencegah robekan perineum dan persiapan persalinan” hadir dalam rangka membantu memenuhi kebutuhan peningkatan pengetahuan terkait robekan perineum/ jalan lahir, upaya-upaya untuk mencegahnya dan persiapan persalinan. Dalam buku ini juga membahas mengenai upaya untuk merawat luka perineum. Buku ini diharapkan dapat menjadi salah satu panduan untuk mendukung ibu dalam mempersiapkan persalinan yang nyaman dan meminimalkan robekan.
