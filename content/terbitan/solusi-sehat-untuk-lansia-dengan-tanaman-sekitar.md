@@ -3,9 +3,9 @@ layout: post
 title: "SOLUSI SEHAT UNTUK LANSIA DENGAN TANAMAN SEKITAR "
 date: 2023-10-11T09:49:24.932Z
 ---
-![](/images/uploads/solusiu-sehat-lansia.jpg)
+![](/images/uploads/solusiu-sehat-lansia-cover.jpg)
 
-**P﻿enulis:** Prof. Dr. Dra. apt. Wiwied Ekasari, M.Si.\
+**P﻿enulis:** Prof. Dr. apt. Wiwied Ekasari, M.Si.\
 \
 **H﻿arga:** Rp. 50.000
 
