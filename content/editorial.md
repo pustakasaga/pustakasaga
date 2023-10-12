@@ -17,4 +17,4 @@ Accepted because it can be published directly Accepted with Small Revision (let 
 
 The article review process usually takes an average of 12 weeks. This review period depends on the duration of the editor and reviewer in reviewing the manuscript.
 
-![]()
+![](/images/uploads/editorial-team.jpg)
