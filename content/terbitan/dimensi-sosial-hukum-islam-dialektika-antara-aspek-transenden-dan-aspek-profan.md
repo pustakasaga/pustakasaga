@@ -5,7 +5,7 @@ date: 2023-10-14T00:17:19.523Z
 ---
 ![](/images/uploads/dimensi-sosial-islam.jpg)
 
-**P﻿enulis:** Edo Segara Gustanto, Achmad Fausi, Doni Azhari, Beni Setyawan, M. Khusnul Khuluq, Muhammad Najid Aufar, Rusdi Rizki Lubis, Muhammad Uqbah Azis, Nur Triyono, Muh. Riezky Pradana Mukhtar
+**P﻿enulis:** Edo Segara Gustanto, M. Khusnul Khuluq, Rusdi Rizki Lubis,  Muhammad Riezky Pradana Mukhtar, Doni Azhari, Achmad Fausi, Beni Setyawan, Muhammad Uqbah Azis, Muhammad Najid Aufar, Nur Triyono, Imam Agung.
 
 **H﻿arga:** Rp. 70.000
 
