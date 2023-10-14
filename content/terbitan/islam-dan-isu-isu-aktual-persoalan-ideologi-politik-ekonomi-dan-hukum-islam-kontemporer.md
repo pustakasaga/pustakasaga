@@ -6,7 +6,7 @@ date: 2023-10-14T00:21:39.731Z
 ---
 ![](/images/uploads/islam-aktual.jpg)
 
-**P﻿enulis:** Edo Segara Gustanto, Achmad Fausi, Muhammad Najid Aufar, Nur Triyono, Muhammad Uqbah Azis, Beni Setyawan, Doni Azhari,  Rusdi Rizki Lubis, Muh. Riezky Pradana Mukhtar, M. Khusnul Khuluq. 
+**P﻿enulis:** Edo Segara Gustanto, Achmad Fausi, Muhammad Najid Aufar, Nur Triyono, Muhammad Uqbah Azis, Beni Setyawan, Doni Azhari,  Rusdi Rizki Lubis, Muhammad Riezky Pradana Mukhtar, M. Khusnul Khuluq. 
 
 **H﻿arga:** Rp. 70.000\
 \
