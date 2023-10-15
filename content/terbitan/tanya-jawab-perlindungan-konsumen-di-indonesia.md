@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TANYA JAWAB PERLINDUNGAN KONSUMEN DI INDONESIA
+title: "TANYA JAWAB PERLINDUNGAN KONSUMEN "
 date: 2023-10-15T05:53:10.970Z
 ---
 ![](/images/uploads/perlindungan-konsumen.jpg)
