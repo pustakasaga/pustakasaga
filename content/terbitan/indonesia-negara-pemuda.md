@@ -3,7 +3,7 @@ layout: post
 title: INDONESIA NEGARA PEMUDA
 date: 2023-10-27T02:41:29.205Z
 ---
-![](/images/uploads/cover-indonesia-negara-pemuda.jpg)
+![](/images/uploads/isbn-indonesia-negara-pemuda.jpg)
 
 **P﻿enulis:** H.M.I. el Hakim, S.H., M.H.
 
