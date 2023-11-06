@@ -6,7 +6,7 @@ date: 2023-10-31T11:13:31.493Z
 ---
 ![](/images/uploads/optimasi-madrasah-diniyah.jpg)
 
-**P﻿enulis:** Novita Eka Listanti, S.Pd.I., M.Pd
+**P﻿enulis:** Novita Eka Listanti, S.Pd.I., M.Pd, Dr. Indria Nur, M.Pd.I, dan Drs. Hasbullah,M.Pd., Ph.D.
 
 **H﻿arga:** Rp. 70.000\
 \
