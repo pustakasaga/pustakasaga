@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Penatalaksanaan Karsinoma Nasofaring  dan Penatalaksanaan Tuli Kongenital
+title: Penatalaksanaan Karsinoma Nasofaring dan Deteksi Dini Tuli Kongenital
 date: 2023-11-08T08:41:05.992Z
 ---
 ![](/images/uploads/isbn-ggg.jpg)
