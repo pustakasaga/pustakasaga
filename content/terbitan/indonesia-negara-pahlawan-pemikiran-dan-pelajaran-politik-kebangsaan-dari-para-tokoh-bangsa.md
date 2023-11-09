@@ -6,7 +6,7 @@ date: 2023-11-08T08:49:02.211Z
 ---
 ![](/images/uploads/isbn-nnf.jpg)
 
-**P﻿enulis:** H.M.I. el Hakim, S.H., M.H.
+**P﻿enulis:** H.M.I. El Hakim & Y. M. Abrar
 
 **H﻿arga:** Rp. 70.000
 
