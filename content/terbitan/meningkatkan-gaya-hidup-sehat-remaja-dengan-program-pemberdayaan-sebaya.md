@@ -5,7 +5,7 @@ date: 2023-11-28T02:41:32.781Z
 ---
 ![](/images/uploads/meningkatkan-gaya-hidup-sehat-remaja-dengan-program-pemberdayaan-sebaya.jpg)
 
-**P﻿enulis:** Praba Diyan Rachmawati, S.Kep., Ns., M.Kep, Dr. Ilya Krisnana, S.Kep., Ns., M.Kep, Iqlima Dwi Kurnia, S.Kep., Ns., M.Kep, Nuzul Qur'aniati, S.Kep., Ns., M.Ng., Ph.D, Titis Mustikowati Danasari, S.Kep., Ns, Dr. Yuni Sufyanti Arief, S.Kp.,M.Kes dan Dr. Kristiawati, S.Kp., M.Kep., Ns.Sp.Kep.An
+**P﻿enulis:** Praba Diyan Rachmawati, S.Kep., Ns., M.Kep, Dr. Ilya Krisnana, S.Kep., Ns., M.Kep, Iqlima Dwi Kurnia, S.Kep., Ns., M.Kep, Nuzul Qur'aniati, S.Kep., Ns., M.Ng., Ph.D, Dr. Yuni Sufyanti Arief, S.Kp.,M.Kes, Dr. Kristiawati, S.Kp., M.Kep., Ns.Sp.Kep.An dan Titis Mustikowati Danasari, S.Kep., Ns
 
 **H﻿arga:** Rp. 60.000
 
