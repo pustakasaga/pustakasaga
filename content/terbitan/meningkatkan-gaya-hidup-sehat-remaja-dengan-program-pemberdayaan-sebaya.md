@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MENINGKATKAN GAYA HIDUP SEHAT REMAJA DENGAN PROGRAM PEMBERDAYAAN SEBAYA
+title: MENINGKATKAN GAYA HIDUP SEHAT REMAJA MELALUI PROGRAM PEMBERDAYAAN TEMAN SEBAYA
 date: 2023-11-28T02:41:32.781Z
 ---
 ![](/images/uploads/meningkatkan-gaya-hidup-sehat-remaja-dengan-program-pemberdayaan-sebaya.jpg)
@@ -9,4 +9,4 @@ date: 2023-11-28T02:41:32.781Z
 
 **H﻿arga:** Rp. 60.000
 
-Buku ini berisi informasi mengenai pemberdayaan teman sebaya terhadap gaya hidup sehat pada Remaja. Buku ini dapat digunakan sebagai acuan dalam membentuk gaya hidup sehat pada remaja melalui peer empowerment. Peran teman sebaya dalam membentuk gaya hidup sehat pada Remaja diharapkan menjadi fokus baru dalam upaya peningkatan kesehatan Remaja. Buku ini berisi panduan pelaksanaan peer empowerment, program yang dapat diterapkan untuk peningkatan gaya hidup sehat pada remaja.
+Buku ini dapat digunakan sebagai acuan untuk meningkatkan gaya hidup sehat Remaja melalui pendekatan teman sebaya.  Pemberdayaan teman sebaya dalam mengoptimalkan gaya hidup sehat diharapkan menjadi fokus baru dalam menyelesaikan permasalahan kesehatan Remaja. Buku ini berisi ulasan tentang gaya hidup Remaja, perkembangan Remaja, teman sebaya serta penerapan program pemberdayaan sebaya dalam upaya optimalisasi diet dan aktifitas fisik yang sehat serta pencegahan perilaku merokok pada Remaja. Buku ini sebagai sumber informasi bagi masyarakat umum, guru, serta pemberi pelayanan kesehatan pada Remaja.
