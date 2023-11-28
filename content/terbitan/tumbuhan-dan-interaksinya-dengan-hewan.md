@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TUMBUHAN DAN INTERAKSINYA DENGAN HEWAN  “Sebuah Pendekatan Ulasan RINGAN
-  dan BERBEDA”
+title: TUMBUHAN DAN INTERAKSINYA DENGAN HEWAN                “Sebuah Pendekatan
+  Ulasan RINGAN dan BERBEDA”
 date: 2023-11-28T00:28:20.980Z
 ---
 ![](/images/uploads/isbn-tumbuhan-dan-interaksinya-dengan-hewan.jpg)
