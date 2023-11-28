@@ -6,7 +6,8 @@ date: 2023-11-28T00:28:20.980Z
 ---
 ![](/images/uploads/isbn-tumbuhan-dan-interaksinya-dengan-hewan.jpg)
 
-**P﻿enulis:** Ananda, M.Si., Muhammad Iqbal, M.Sc. dan Muhammad Hamzah Solim, M.Si.
+**P﻿enulis:** Ananda, S.Si., M.Si, Muhammad Iqbal, S.P., Msc dan
+Muhammad Hamzah Solim, S.Si., M.Si 
 
 **H﻿arga:** Rp. 60.000\
 \
