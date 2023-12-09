@@ -3,7 +3,7 @@ layout: post
 title: HIDUP SEHAT ATASI ANEMIA   Wawasan Bagi Remaja Putri Memasuki Usia Produktif
 date: 2023-12-09T03:12:38.523Z
 ---
-![](/images/uploads/hidup-sehat-atasi-anemia-fix.jpg)
+![](/images/uploads/cover-hidup-sehat-atasi-anemia-fix.jpg)
 
 **P﻿enulis:** Ni Ketut Alit Armini, Aria Aulia Nastiti, Mira Triharini
  \
