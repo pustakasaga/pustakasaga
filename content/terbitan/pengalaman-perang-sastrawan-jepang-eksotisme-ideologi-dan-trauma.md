@@ -3,7 +3,7 @@ layout: post
 title: "PENGALAMAN PERANG SASTRAWAN JEPANG: EKSOTISME, IDEOLOGI DAN TRAUMA "
 date: 2023-12-01T03:33:50.194Z
 ---
-![](/images/uploads/pengalaman-perang-sastrawan-jepang.jpg)
+![](/images/uploads/cover-pengalaman-perang-sastrawan-jepang.jpg)
 
 **P﻿enulis:** Syahrur Marta Dwisusilo
 
