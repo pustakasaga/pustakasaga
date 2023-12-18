@@ -1,15 +1,12 @@
 ---
-layout: post
-title: MERAWAT POTENSI KEBERAGAMAN DAN TOLERANSI MELALUI PEMBELAJARAN PARIWISATA
-  PESISIR JAWA TIMUR
-date: 2023-12-18T23:22:32.976Z
+title: "MERAWAT POTENSI KEBERAGAMAN DAN TOLERANSI MASYARAKAT PESISIR :
+  PENGENALAN LINGKUNGAN DI MASYARAKAT"
+date: 2023-12-18T23:24:27.204Z
 ---
-![](/images/uploads/merawat-potensi-pariwisata-pesisir-jawa-timur.jpg)
+![](/images/uploads/pengenalan-lingkungan-di-masyarakat.jpg)
 
-**P﻿enulis:** Prof. Dr. Tika Widiastuti, S.E., M.Si,
-Eka Puspa Dewi, S.E., M.SEI, 
-Nikmatul Atiya, S.E.I
+**P﻿enulis:** Ratnaningtyas Wahyu Kusuma Wardani S.KM., M.KL
 
 **Harga:** Rp. 75.000\
 \
-Buku "Merawat Potensi Keberagaman dan Toleransi Melalui Pembelajaran Pariwisata Pesisir Jawa Timur" mengangkat tema yang relevan dan penting dalam konteks pelestarian nilai-nilai keberagaman dan toleransi di Indonesia, khususnya di wilayah Pesisir Jawa Timur. Penulis menjelajahi konsep pembelajaran pariwisata sebagai sarana untuk merawat, memperkuat, dan mengapresiasi potensi keberagaman budaya serta toleransi antar masyarakat di daerah tersebut. Buku ini memaparkan bagaimana pariwisata dapat menjadi alat yang efektif untuk mempromosikan pemahaman lintas budaya dan mengukuhkan hubungan harmonis antara kelompok-kelompok yang berbeda. Penulis menjelaskan bahwa pembelajaran pariwisata tidak hanya tentang aspek fisik dari destinasi, tetapi juga tentang menghargai dan menghormati keberagaman budaya yang menjadi daya tarik khusus suatu daerah.
+Buku "Merawat Potensi Keberagaman dan Toleransi Masyarakat Pesisir: Pengenalan Lingkungan di Masyarakat" membawa pembaca dalam perjalanan yang mendalam ke dalam hubungan yang kompleks antara masyarakat pesisir, keberagaman budaya, dan lingkungan sekitar. Penulis memfokuskan perhatian pada pengenalan lingkungan sebagai landasan bagi pemahaman masyarakat terhadap keberagaman dan toleransi di wilayah pesisir. Konsep toleransi dan harmoni juga dipahami sebagai aspek penting dalam kehidupan masyarakat pesisir. Penulis menyoroti bagaimana pengenalan lingkungan membentuk pola pikir yang mempromosikan kerjasama dan koeksistensi. Pembaca diajak untuk merenung tentang bagaimana toleransi terhadap perubahan lingkungan dan keragaman sumber daya menjadi kunci bagi kelangsungan hidup komunitas pesisir.
