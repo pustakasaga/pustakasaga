@@ -3,7 +3,7 @@ layout: post
 title: MERAWAT POTENSI KEBERAGAMAN KULINER DAN BUDAYA DI MASYARAKAT PESISIR JAWA TIMUR
 date: 2024-01-03T11:15:49.657Z
 ---
-![](/images/uploads/kuliner.jpg)
+![](/images/uploads/cov-kuliner.jpg)
 
 **P﻿enulis:** Sri Musta'ina, Dra., M.Kes.\
 \
