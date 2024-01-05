@@ -2,7 +2,7 @@
 layout: post
 title: Jurnal SAGA vol 2 no 1 (Desember  2023) Meningkatkan Pemahaman Bahasa
   Inggris  dengan Video Pembelajaran Youtube  pada Mata Kuliah Basic English
-pdf: /images/uploads/meningkatkan-pemahaman-bahasa-inggris-dengan-video-pembelajaran-youtube-pada-mata-kuliah-basic-english.docx.pdf
+pdf: /images/uploads/meningkatkan-pemahaman-bahasa-inggris-dengan-video-pembelajaran-youtube-pada-mata-kuliah-basic-english.-jurnal-saga..pdf
 date: 2023-12-27T06:57:02.485Z
 ---
 
