@@ -6,6 +6,8 @@ title: home
 
 **PUSTAKA SAGA**
 
-**PT Pustaka Saga Jawadwipa**
+**PT Pustaka Saga Jawadwipa**\
+\
+Anggota IKAPI No. 367/JTI/2023
 
 ![](/images/uploads/gggg.jpg)
