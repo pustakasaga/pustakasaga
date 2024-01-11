@@ -14,7 +14,7 @@ ISBN: 978-623-8455-36-2 (PDF)
 Viskasari P. Kalanjati
 
 **Editor:**
-Winona M. Hendrata
+Winona M. Hendrata,
 Akbarur Raihan
 
 **Tata letak:**
