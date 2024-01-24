@@ -7,7 +7,7 @@ date: 2023-12-29T22:51:40.210Z
 
 **P﻿enulis:** Amir Syafrudin\
 \
-**Harga:** Rp. 65.000\
+**Harga:** Rp. 100.000\
 \
 **P﻿emesanan:** +62 817-0114-565 (Whatsapp)\
 Buku ASN Agile dapat dipesan lewat Tokopedia di sini: https://www.tokopedia.com/array20/buku-asn-agile. DISKON 25% tersedia di toko dan dapat digunakan saat checkout.\
