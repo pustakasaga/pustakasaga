@@ -3,7 +3,7 @@ layout: post
 title: ASN AGILE
 date: 2023-12-29T22:51:40.210Z
 ---
-![](/images/uploads/isbn-asn-agile.jpg)
+![](/images/uploads/asn-agile-sampul.jpg)
 
 **P﻿enulis:** Amir Syafrudin\
 \
