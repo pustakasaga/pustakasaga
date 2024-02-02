@@ -4,7 +4,7 @@ title: Metodologi Survey Kepuasan Masyarakat terhadap Program Upaya Kesehatan
   Masyarakat
 date: 2024-02-02T11:23:21.409Z
 ---
-![](/images/uploads/2018-metodologi-survey-kepuasan-ukm.jpg)
+![](/images/uploads/2018-metodologi-survey-kepuasan.jpg)
 
 **P﻿enulis:** Dr. Ede Surya Darmawan, S.K.M., MDM, drg. Indah Rosana, MPH, Vetty Yulianty Permanasari, SSi, MPH, Eny Juliati, S.K.M., M.K.M., Anita Pebrina Lubis, SKM, Aulia Khairina, SKM, Tresnasari Satya Putri, S.K.M., M.K.M. \
 \
