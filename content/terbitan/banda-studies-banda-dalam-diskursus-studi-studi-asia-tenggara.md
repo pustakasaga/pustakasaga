@@ -3,11 +3,13 @@ layout: post
 title: "BANDA STUDIES: Banda Dalam Diskursus Studi-Studi Asia Tenggara"
 date: 2024-02-04T08:58:06.435Z
 ---
-![]()
+![](/images/uploads/isbn-banda-studiesssss.jpg)
 
-**P﻿enulis:** Dr. Ede Surya Darmawan, SKM, MDM, Vetty Yulianty Permanasari, S.Si, MPH., Nadilah Salma, SKM, Anita Pebrina Lubis, SKM \
+**P﻿enulis:** Ron Habiboe, Kasman Renyaan, 
+Juul Sadée, Yusuf Hilga Thio, Syarifah Husin, 
+Eka Sumandary, Aditya Putra Basir\
 \
-**Harga:** Rp. 65.000\
+**Harga:** Rp. 85.000\
 \
 Banda adalah kelompok kepulauan di Indonesia yang memiliki sejarah panjang sebagai pusat perdagangan rempah-rempah pada abad ke-16. Pulau Banda, khususnya, terkenal karena produksi pala dan cengkeh yang menjadi komoditas berharga pada masa kolonial. Jejak sejarah ini menciptakan narasi yang kaya untuk dipelajari dalam konteks studi Asia Tenggara.
 
