@@ -5,7 +5,7 @@ date: 2024-01-31T23:31:27.312Z
 ---
 ![](/images/uploads/maqosid-perbankan.jpg)
 
-**P﻿enulis:** Rahadi Kristiyanto
+**P﻿enulis:** Dr. Rahadi Kristiyanto, S.H., M.H.
 
 **H﻿arga:** Rp. 70.000
 
