@@ -57,7 +57,7 @@ collections:
             multiple: false
       - {label: "Publish Date", name: "date", widget: "datetime",date_format: "DD.MM.YYYY",time_format: "HH:mm"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "articles"
+  - name: "articles2"
     label: "Articles Jurnal Pengmas"
     folder: "content/articles2"
     create: true 
