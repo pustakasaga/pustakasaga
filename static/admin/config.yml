@@ -38,7 +38,7 @@ collections:
             multiple: false      
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "articles"
-    label: "Articles"
+    label: "Articles Jurnal Saga"
     folder: "content/articles"
     create: true 
     sort: "date:desc"
@@ -57,6 +57,26 @@ collections:
             multiple: false
       - {label: "Publish Date", name: "date", widget: "datetime",date_format: "DD.MM.YYYY",time_format: "HH:mm"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "articles"
+    label: "Articles Jurnal Pengmas"
+    folder: "content/articles2"
+    create: true 
+    sort: "date:desc"
+    sortable_fields: ['title', 'date']
+    slug: "{{slug}}" 
+    summary: "{{title}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "PDF"
+        name: "pdf"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - {label: "Publish Date", name: "date", widget: "datetime",date_format: "DD.MM.YYYY",time_format: "HH:mm"}
+      - {label: "Body", name: "body", widget: "markdown"}      
   - name: "halaman"
     label: "Halaman"
     folder: "content"
