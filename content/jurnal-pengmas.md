@@ -2,7 +2,7 @@
 menu: main
 type: about
 weight: 11
-title: Jurnal Saga
+title: Jurnal Pengmas
 ---
 ![](/images/uploads/kop-jurnal-saga.jpg)
 
