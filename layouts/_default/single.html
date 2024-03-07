@@ -17,6 +17,11 @@
  						</div>
  						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 					</header>
+					{{- if .Params.pdf }}
+					<div class="downloadpdf" style="margin-bottom:10px;margin-top:10px;">
+            <a href="{{ .Params.pdf }}" download>PDF</a>
+					</div>
+					{{ end }}
 					<div class="entry-content">
 						{{ .Content }}
 					</div>
