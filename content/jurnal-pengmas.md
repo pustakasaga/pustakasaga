@@ -1,6 +1,7 @@
 ---
+menu: main
 type: about
-weight: 4
+weight: 11
 title: Jurnal Saga
 ---
 ![](/images/uploads/kop-jurnal-saga.jpg)
