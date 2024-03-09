@@ -2,7 +2,7 @@
 layout: post
 title: Metodologi Penyusunan Master Plan Pembangunan Kesehatan Tingkat Kabupaten/Kota
 date: 2024-03-09T00:39:30.716Z
-pdf: ""
+pdf: /images/uploads/2017-metode-penyusunan-master-plan-pembangunan-tingkat-kabupaten-kota.pdf
 ---
 ![](/images/uploads/metodologi-penyusunan-master-plan-pembangunan.jpg)
 
