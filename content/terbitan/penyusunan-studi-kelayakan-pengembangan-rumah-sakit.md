@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "PENYUSUNAN STUDI KELAYAKAN PENGEMBANGAN RUMAH SAKIT "
-date: 2024-01-04T08:14:40.888Z
+date: 2024-03-09T01:27:28.932Z
+pdf: /images/uploads/ebook-penyusunan-studi-kelayakan-pengembangan-rumah-sakit.pdf
 ---
-![]()
+![](/images/uploads/penyusunan-studi-kelayakan.jpg)
 
 **P﻿enulis:** Dr. Ede Surya Darmawan, SKM, MDM, Vetty Yulianty Permanasari, S.Si, MPH., Dr. drg. Wahyu Sulistiadi, MARS, Syarif Rahman Hasibuan, SKM \
 \
