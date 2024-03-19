@@ -19,7 +19,7 @@ Pernah juga saya menemukan buku aoutobiografi Rohmin Dahuri -mantan Menteri kela
 
 ![](/images/uploads/sampul_18-05-2010_11-12-43_7597.jpg)
 
-![](/images/uploads/35778.jpg)
+![](/images/uploads/252c21b5-2901-4b33-b27b-35b0a2e3a851.jpg)
 
 \
 Kegiatan ngerombeng buku-buku bekas di Jl Semarang ini terus saya lakukan bahkan setelah saya mendirikan toko buku ofline dan sudah berparten dengan penerbit-penerbit dan distributor-distributor untuk menjual buku-buku baru. Karna selain menghasilkan cuan yang menggiurkan, berburu buku-buku bekas memiliki sensasi tersendiri. Seperti berburu harta karun. Kadang kala kalua menemukan buku yang sangat langka, atau sedang say acari, buku-buku itu saya masukkan sebagai koleksi pribadi. Untuk kawan-kawan yang hobi membaca dan mengoleksi buku, tapi sumberdaya terbatas, ide ngerombeng buku bekas untuk dijual lagi tidak ada salahnya untuk dicoba.
