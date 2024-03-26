@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visioning Gresik:  Integrasi Konseptual Umara & Ulama "
+title: "VISIONING GRESIK:  Integrasi Konseptual Umara & Ulama "
 date: 2024-03-26T08:56:48.222Z
 ---
 ![](/images/uploads/isbn-visioning-gresik.jpg)
