@@ -2,7 +2,7 @@
 layout: post
 title: "Jurnal SAGA vol 2 no 1 (Mei 2024) Improving Writing Skills: A Review of
   AI to A Comprehensive Approach"
-pdf: /images/uploads/improving-writing-skills-a-review-of-ai-to-a-comprehensive-approach.pdf
+pdf: /images/uploads/improving-writing-skills-a-review-of-ai-to-a-comprehensive-approach..pdf
 date: 2024-04-24T06:08:46.772Z
 ---
 **Improving Writing Skills: A Review of AI to A Comprehensive Approach**\
