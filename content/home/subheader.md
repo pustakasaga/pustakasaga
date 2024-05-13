@@ -2,7 +2,7 @@
 type: subheader
 title: home
 ---
-![](/images/uploads/kop-jurnal-saga.jpg)
+![](/images/uploads/kop-suluh.jpg)
 
 **PUSTAKA SAGA**
 
