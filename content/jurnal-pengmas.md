@@ -4,7 +4,7 @@ type: about
 weight: 11
 title: Jurnal Pengmas
 ---
-![](/images/uploads/kop-jurnal-saga.jpg)
+![](/images/uploads/kop-suluh.jpg)
 
 The SAGA journal is a peer-reviewed scientific journal which is published twice a year, in August and December. This journal is made for researchers and academics, as well as the general public and has an interest in the repertoire of social sciences, economics, law, education, psychology and humanities.\
 \
