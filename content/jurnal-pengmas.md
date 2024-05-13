@@ -14,7 +14,7 @@ The SAGA journal is a peer-reviewed scientific journal which is published twice 
 
 [Articles](/articles2/)
 
-![](/images/uploads/cov-depan-saga.jpg)
+![](/images/uploads/cover-1.jpg)
 
 ![]()
 
