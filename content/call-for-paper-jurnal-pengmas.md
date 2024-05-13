@@ -3,7 +3,7 @@ type: about
 weight: 4
 title: Call for Paper Jurnal pengmas
 ---
-![](/images/uploads/kop-jurnal-saga.jpg)
+![](/images/uploads/kop-suluh.jpg)
 
 We invite authors to submit best articles in social sciences, economics, law, education and humanities.
 
