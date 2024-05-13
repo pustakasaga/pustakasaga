@@ -3,7 +3,7 @@ type: about
 weight: 4
 title: Editorial Jurnal Pengmas
 ---
-![](/images/uploads/kop-jurnal-saga.jpg)
+![](/images/uploads/kop-suluh.jpg)
 
 **Peer Review Process**
 
