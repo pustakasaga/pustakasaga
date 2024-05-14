@@ -2,7 +2,7 @@
 menu: main
 type: about
 weight: 11
-title: Jurnal Suluh Dipanegara
+title: Suluh Dipanegara
 ---
 ![](/images/uploads/kop-suluh.jpg)
 
