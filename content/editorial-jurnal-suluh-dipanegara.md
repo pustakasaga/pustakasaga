@@ -17,4 +17,4 @@ Diterima karena bisa langsung diterbitkan Diterima dengan Revisi Kecil (biarkan 
 
 Proses review artikel biasanya memakan waktu rata-rata 12 minggu. Jangka waktu peninjauan ini bergantung pada durasi editor dan reviewer dalam menelaah naskah.
 
-![](/images/uploads/editorial-team.jpg)
+![](/images/uploads/all-teams.jpg)
