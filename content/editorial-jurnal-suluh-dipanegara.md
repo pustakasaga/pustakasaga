@@ -1,7 +1,7 @@
 ---
 type: about
 weight: 4
-title: Editorial Jurnal Suluh Dipanegara
+title: Editorial SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat
 ---
 ![](/images/uploads/kop-suluh.jpg)
 
