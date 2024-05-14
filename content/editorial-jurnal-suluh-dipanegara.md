@@ -1,7 +1,7 @@
 ---
 type: about
 weight: 4
-title: Editorial Jurnal Pengmas
+title: Editorial Jurnal Suluh Dipanegara
 ---
 ![](/images/uploads/kop-suluh.jpg)
 
