@@ -5,16 +5,16 @@ title: Editorial SULUH DIPANEGARA - Jurnal Pengabdian Masyarakat
 ---
 ![](/images/uploads/kop-suluh.jpg)
 
-**Peer Review Process**
+**Proses Tinjauan Sejawat**
 
-The SAGA journal will initially ask the Editor-in-Chief to screen the submitted manuscripts. Then, papers will be distributed to the editorial board based on their areas of expertise.
+SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat awalnya akan meminta Pemimpin Redaksi untuk menyaring naskah yang dikirimkan. Kemudian, makalah akan didistribusikan kepada dewan redaksi berdasarkan bidang keahliannya.
 
-Table Review. These papers will undergo desk review where the paper will be read and screened by members of the editorial board to ensure that the paper meets the guidelines for writing, focus, and scope with excellent academic quality. If it does not meet the requirements, the author will be given the opportunity to revise the manuscript according to the criteria provided. However, there is also the possibility that the manuscript will be rejected immediately.
+Tinjauan Tabel. Makalah-makalah ini akan menjalani desk review dimana makalah akan dibaca dan disaring oleh anggota dewan redaksi untuk memastikan bahwa makalah tersebut memenuhi pedoman penulisan, fokus, dan ruang lingkup dengan kualitas akademik yang sangat baik. Apabila tidak memenuhi syarat, penulis akan diberikan kesempatan untuk merevisi naskah sesuai kriteria yang disediakan. Namun ada juga kemungkinan naskah tersebut akan langsung ditolak.
 
-Peer Review. SAGA journal implements a double blind review policy whereby the reviewer's name is always hidden from the submitting author and vice versa. Manuscripts will be sent to peer-reviewers based on their areas of expertise. Then the editorial board will make a decision on the reviewer's comments or suggestions. The decision includes:
+Tinjauan Sejawat. SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat menerapkan kebijakan double blind review dimana nama reviewer selalu disembunyikan dari penulis yang mengirimkan dan sebaliknya. Naskah akan dikirim ke peer-reviewer berdasarkan bidang keahliannya. Kemudian dewan redaksi akan mengambil keputusan atas komentar atau saran reviewer. Keputusan tersebut meliputi:
 
-Accepted because it can be published directly Accepted with Small Revision (let the author revise with a certain deadline) Accepted with Major Revision (let the author revise with a certain time limit) Rejected, because it can be re-evaluated after revision.
+Diterima karena bisa langsung diterbitkan Diterima dengan Revisi Kecil (biarkan penulis merevisi dengan batas waktu tertentu) Diterima dengan Revisi Besar (biarkan penulis merevisi dengan batas waktu tertentu) Ditolak, karena dapat dievaluasi kembali setelah direvisi.
 
-The article review process usually takes an average of 12 weeks. This review period depends on the duration of the editor and reviewer in reviewing the manuscript.
+Proses review artikel biasanya memakan waktu rata-rata 12 minggu. Jangka waktu peninjauan ini bergantung pada durasi editor dan reviewer dalam menelaah naskah.
 
 ![](/images/uploads/editorial-team.jpg)
