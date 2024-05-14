@@ -1,7 +1,7 @@
 ---
 type: about
 weight: 4
-title: Call for Paper Jurnal Suluh Dipanegara
+title: Call for Paper SULUH DIPANEGARA - Jurnal Pengabdian Masyarakat
 ---
 ![](/images/uploads/kop-suluh.jpg)
 
