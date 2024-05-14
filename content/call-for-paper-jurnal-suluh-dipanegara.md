@@ -5,10 +5,10 @@ title: Call for Paper SULUH DIPANEGARA - Jurnal Pengabdian Masyarakat
 ---
 ![](/images/uploads/kop-suluh.jpg)
 
-We invite authors to submit best articles in social sciences, economics, law, education and humanities.
+Kami mengundang penulis untuk mengirimkan artikel terbaik dari hasil kegiatan pengabdian dan pemberdayaan masyarakat berupa penerapan berbagai bidang ilmu diantaranya pendidikan, teknik, pertanian, perikanan, peternakan, sosial humaniora, komputer dan kesehatan. 
 
-**Provision:**
+**Ketentuan**
 
-1. All content must be original and has not been previously published anywhere and in any form, and the author is responsible for obtaining the necessary approvals and permissions for the use of third party materials.
-2. Please pay attention to the completeness of the submission files including: Cover Letter, Anonymous File, and Title Page. Manuscripts that do not pay attention to the terms of writing and completeness of submission will be immediately rejected.   
-3. Article submission via editorial email: saga.socialjournal@gmail.com
+1. Semua konten harus asli dan belum pernah dipublikasikan sebelumnya di mana pun dan dalam bentuk apa pun, dan penulis bertanggung jawab untuk mendapatkan persetujuan dan izin yang diperlukan untuk penggunaan materi pihak ketiga.
+2. Mohon diperhatikan kelengkapan berkas penyerahan antara lain: Surat Pengantar, File Anonim, dan Halaman Judul. Naskah yang tidak memperhatikan syarat penulisan dan kelengkapan penyerahan akan langsung ditolak.
+3. Pengiriman artikel melalui email editorial: jurnal.suluhdipanegara@gmail.com
