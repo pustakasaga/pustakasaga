@@ -1,7 +1,7 @@
 ---
 type: about
 weight: 4
-title: Call for Paper Jurnal pengmas
+title: Call for Paper Jurnal Suluh Dipanegara
 ---
 ![](/images/uploads/kop-suluh.jpg)
 
