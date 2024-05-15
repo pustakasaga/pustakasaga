@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat vol 1 no 1 (Mei 2024) :
-  Gerakan Pelajar Pemberdaya Masyarakat Pesisir Kota"
+title: "Gerakan Pelajar Pemberdaya Masyarakat Pesisir Kota (SULUH DIPANEGARA:
+  Jurnal Pengabdian Masyarakat vol 1 no 1, Mei 2024) "
 pdf: /images/uploads/gerakan-pelajar-pemberdaya-masyarakat-pesisir-kota.pdf
 date: 2024-05-15T00:28:45.505Z
 ---
