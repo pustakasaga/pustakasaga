@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat vol 1 no 1 (Mei
-  2024):  Muhammadiyah dan Institusi Pendidikan Ramah Ham Bagi Difabel Di Jawa
-  Timur"
+title: "Muhammadiyah dan Institusi Pendidikan Ramah HAM Bagi Difabel di Jawa
+  Timur (SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat vol 1 no 1, Mei 2024)"
 pdf: /images/uploads/muhammadiyah-dan-institusi-pendidikan-ramah-ham-bagi-difabel-di-jawa-timur.pdf
 date: 2024-05-15T00:24:59.281Z
 ---
