@@ -5,7 +5,7 @@ date: 2024-06-07T04:34:22.503Z
 ---
 ![](/images/uploads/pengorganisasian-politik-luar-negeri-ri.jpg)
 
-**P﻿enulis:** Dr. Joni Rusmanto, M.Si, Dr. Sunaryo Neneng, MP, Ester Sonya Ulfaritha, M.Si
+**P﻿enulis:** M. Muttaqien
 
 **Harga:** Rp.75.000\
 \
