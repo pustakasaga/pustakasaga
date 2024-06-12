@@ -3,7 +3,7 @@ layout: post
 title: Abhiseka Wiraga dalam Ensiklopedia Jamu
 date: 2024-06-12T01:54:57.239Z
 ---
-![](/images/uploads/ensiklopedia-jamu-isbn.jpg)
+![](/images/uploads/ensiklopedia-jamu-isbnss.jpg)
 
 **P﻿enulis:** Prof. Apt. Rr. Retno Widyowati, SSi., MPharm., PhD. &  Qiara Amelia Putri Priyono
 
