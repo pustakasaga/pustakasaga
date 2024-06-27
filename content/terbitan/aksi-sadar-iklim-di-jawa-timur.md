@@ -5,7 +5,7 @@ date: 2024-06-27T02:08:06.237Z
 ---
 ![](/images/uploads/aksi-sadar-iklim-.jpg)
 
-**P﻿enulis:** Dr. Joni Rusmanto, M.Si, Dr. Sunaryo Neneng, MP, Ester Sonya Ulfaritha, M.Si
+**P﻿enulis:** Sulaiman Sulang, S.S., M.AP
 
 **Harga:** Rp.55.000\
 \
