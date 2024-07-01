@@ -14,7 +14,7 @@ SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat adalah jurnal nasional yang beri
 
 [Articles](/articles2/)
 
-![](/images/uploads/cover-1.jpg)
+![](/images/uploads/cover-2.jpg)
 
 ![]()
 
