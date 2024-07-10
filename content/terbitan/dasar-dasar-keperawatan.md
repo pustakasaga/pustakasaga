@@ -3,9 +3,9 @@ layout: post
 title: Dasar-dasar keperawatan
 date: 2024-01-07T10:00:27.553Z
 ---
-![](/images/uploads/isbn-dasar-dasar-keperawatan.jpg)
+![](/images/uploads/dasar-dasar-keperawatan.jpg)
 
-**P﻿enulis:** Petrus Kanisius Siga Tage, Angela Muryanti Gatum, Ni Luh Putu Dian Yunita Sari, Erna Febriyanti, Fepyani Thresna Feoh, Herliana Monika Azi Djogo, Maryati Agustina Barimbing, Yohanes Dion.\
+**P﻿enulis:** Petrus Kanisius Siga Tage, Angela Muryanti Gatum, Ni Luh Putu Dian Yunita Sari, Erna Febriyanti, Fepyani Thresna Feoh, Herliana Monika Azi Djogo,                      Maryati Agustina Barimbing, Yohanes Dion, Yulia Martiningsih Karmila Letor, Analizza Ina Lea, Sebastianus Kurniadi Tahu, Maria Agustina Making,                       Sabinus Bungaama Kedang, Istha Leanni Muskananfola, Maria Yasintha Goa.\
 \
 **Harga:** Rp. 65.000\
 \
