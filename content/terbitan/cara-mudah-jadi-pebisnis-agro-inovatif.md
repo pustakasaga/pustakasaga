@@ -5,7 +5,7 @@ date: 2024-07-19T13:56:19.490Z
 ---
 ![](/images/uploads/isbn-cara-mudah-jadi-pebisnis-agro-inovatif-wayan-supadno.jpg)
 
-**P﻿enulis:** WAYAN SUPADNO
+**P﻿enulis:** Wayan Supadno
 
 **Harga:** Rp.75.000\
 \
