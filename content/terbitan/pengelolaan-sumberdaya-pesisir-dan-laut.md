@@ -3,7 +3,7 @@ layout: post
 title: PENGELOLAAN SUMBERDAYA PESISIR DAN LAUT
 date: 2024-07-22T23:23:58.300Z
 ---
-![](/images/uploads/pengelolaan-sumberdaya-pesisir.jpg)
+![](/images/uploads/isbn-pengelolaan-sumberdaya-pesisir.jpg)
 
 **P﻿enulis:** Heri Ariadi
 
