@@ -3,9 +3,9 @@ layout: post
 title: "Pengantar Statistika: Teori dan Aplikasi"
 date: 2024-08-22T13:01:35.196Z
 ---
-![](/images/uploads/pengantar-statistika.jpg)
+![](/images/uploads/pengantar-statistika-cov.jpg)
 
-**P﻿enulis:** Vita Meylani., M.Sc.  &  Dr. Rita Fitriani., M.Pd 
+**P﻿enulis:** Vita Meylani  &  Rita Fitriani
 
 **Harga:** Rp.100.000\
 \
