@@ -5,7 +5,7 @@ date: 2024-08-26T22:54:01.138Z
 ---
 ![](/images/uploads/aktivitas-fisik-dan-kesehatan-panggul-cov.jpg)
 
-**P﻿enulis:** Agung Priyadi
+**P﻿enulis:** Eighty Mardiyan Kurniawati, Gatut Hardianto, Riska Wahyuningtyas, Nur Anisah Rahmawati, Vina Firmanty Mustofa, Agde Muzaky Kurniawan, Cahyani Tiara Safitri, Mardianti
 
 **Harga:** Rp.75.000
 
