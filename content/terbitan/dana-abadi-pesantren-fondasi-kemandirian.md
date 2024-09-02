@@ -5,7 +5,7 @@ date: 2024-08-31T05:36:10.166Z
 ---
 ![](/images/uploads/dana-abadi-pesantren.jpg)
 
-**P﻿enulis:** Agung Priyadi
+**P﻿enulis:** Dr. Robert Edy Sudarwan & Dr. Fatin Fadhilah Hasib, S.E., M.Si
 
 **Harga:** Rp.75.000\
 \
