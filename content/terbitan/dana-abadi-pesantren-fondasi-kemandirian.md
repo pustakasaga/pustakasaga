@@ -3,7 +3,7 @@ layout: post
 title: Dana Abadi Pesantren Fondasi Kemandirian
 date: 2024-08-31T05:36:10.166Z
 ---
-![](/images/uploads/dana-abadi-pesantren.jpg)
+![](/images/uploads/isbn-dana-abadi-pesantren.jpg)
 
 **P﻿enulis:** Dr. Robert Edy Sudarwan & Dr. Fatin Fadhilah Hasib, S.E., M.Si
 
