@@ -5,7 +5,7 @@ title: PENGEMBANGAN NANO HERBAL KOMBINASI EKSTRAK RIMPANG JAHE MERAH (Zingiber
   TERSTANDAR AFRODISIAKA
 date: 2024-04-05T03:23:46.273Z
 ---
-![](/images/uploads/isbn-nano-herbal.jpg)
+![](/images/uploads/nano-herbal-cetak.jpg)
 
 **P﻿enulis:** Prof. Dr. Sukardiman., Apt., MS  & apt. Rosita Handayani., S.Farm., MSi
 
