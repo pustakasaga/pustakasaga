@@ -4,9 +4,9 @@ title: The Relationship Between  Sense of Self and  Borderline Personality
   Disorder  Symptoms
 date: 2024-09-10T00:51:33.464Z
 ---
-![](/images/uploads/isbn-the-relationship-between-sense-of-self-and-borderline-personality-disorder symptoms.jpg)
+![](/images/uploads/isbnp-the-relationship-between-sense-of-self-and-borderline-personality-disorder symptoms.jpg)
 
-**P﻿enulis:** Dr. Dewi Retno Suminar, Dra., M.Si. & Valina Khiarin Nisa, S.Psi.
+**P﻿enulis:** Dr. Dewi Retno Suminar, Dra., M.Si. & Valina Khiarin Nisa, S.Psi., M.Sc
 
 **Harga:** Rp.55.000\
 \
