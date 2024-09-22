@@ -6,9 +6,9 @@ date: 2024-09-22T09:27:30.684Z
 ---
 ![](/images/uploads/isbn-resiliensi-berbasis-internet-pada-para-tenaga.jpg)
 
-**P﻿enulis:** Dr. Nur Ainy Fardana N., M.Si., Psikolog 
-Prof. Dr. Nurul Hartini, M. Kes.
-Valina Khiarin Nisa, S.Psi., M.Sc.
+**P﻿enulis:** Dr. Nur Ainy Fardana N., M.Si., Psikolog, 
+Prof. Dr. Nurul Hartini, M. Kes.,
+Valina Khiarin Nisa, S.Psi., M.Sc.,
 Prof. Dr. dr. Santi Martini, M.Kes.
 
 **Harga:** Rp.55.000\
