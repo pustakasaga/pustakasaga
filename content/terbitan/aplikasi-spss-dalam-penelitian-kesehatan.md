@@ -5,7 +5,7 @@ date: 2024-10-08T05:16:33.075Z
 ---
 ![](/images/uploads/aplikasi-spss-dalam-penelitian-kesehatan.jpg)
 
-**P﻿enulis:**  Adhymas Setyo Wicaksono, dr M.Kes 
+**P﻿enulis:**  Adhymas Setyo Wicaksono, dr, M.Kes 
 
 **Harga:** Rp.55.000\
 \
