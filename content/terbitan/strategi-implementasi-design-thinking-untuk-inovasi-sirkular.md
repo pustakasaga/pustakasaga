@@ -3,9 +3,9 @@ layout: post
 title: Strategi Implementasi Design Thinking untuk Inovasi Sirkular
 date: 2024-10-19T14:47:41.045Z
 ---
-![](/images/uploads/isbn-strategi-implementasi-design-thinking-untuk-inovasi-sirkular.jpg)
+![](/images/uploads/isbn-strategi-implementa.jpg)
 
-**P﻿enulis:** Hanif Azhar, Anisa Silviana Putri, Afra Ajrani Putri Basha, Faishal Mufied Al Anshary
+**P﻿enulis:** Hanif Azhar, Anisa Silviana Putri, Afra Ajrani Putri Basha, Faishal Mufied Al Anshary, Didit Widiatmoko Soewardikoen
 
 **Harga:** Rp.55.000\
 \
