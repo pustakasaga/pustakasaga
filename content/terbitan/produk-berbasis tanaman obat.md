@@ -5,13 +5,7 @@ date: 2024-10-22T05:15:22.151Z
 ---
 ![](/images/uploads/isbn-produk-berbasis tanaman obat.jpg)
 
-**P﻿enulis:**  Prof. Dr. apt. Wiwied Ekasari, Msi., apt. Suciati, Ssi., MPhil., PhD,
-Dra. Iswajuni, MSi. Ak. CA, apt. Annisa Fatmawati, MFarm.,
-Khalifa Yuliana, apt. Devanus Lahardo, S. Farm., M. Farm.,
-apt. Ega Widya Prayogo, S. Farm., M. Farm, 
-apt. Firmansyah Ardian Ramadhani, S. Farm., M. Farm,
-Afrida Yunda Nirmala, S. Farm, Fakharina Fauzul Minnah, S. Farm,
-Viola Puspita Imelda, S. Farm, Dihan Isro' Idayati, S. Farm
+**P﻿enulis:**  Prof. Dr. apt. Wiwied Ekasari, M.Si.,  apt. Suciati, S.Si., MPhil., Ph.D., Dra. Iswajuni, M.Si., Ak.CA, apt. Annisa Fatmawati, M.Farm., Khalifa Yuliana, apt. Devanus Lahardo, S.Farm., M.Farm., apt. Ega Widya Prayogo, S.Farm., M.Farm., apt. Firmansyah Ardian Ramadhani, S.Farm., M.Farm., Afrida Yunda Nirmala, S.Farm., Fakharina Fauzul Minnah, S.Farm., Viola Puspita Imelda, S. Farm., Dihan Isro’Idayati, S.Farm.
 
 **Harga:** Rp.75.000\
 \
