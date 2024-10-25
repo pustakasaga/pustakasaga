@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kolaborasi untuk Perubahan Mahasiswa dan Program MBKM
+title: "Kolaborasi untuk Perubahan: Mahasiswa dan Program MBKM"
 date: 2024-10-25T01:06:58.738Z
 ---
 ![](/images/uploads/isbn-kolaborasi-untuk-perubahan-mahasiswa-dan-program-mbkm.jpg)
