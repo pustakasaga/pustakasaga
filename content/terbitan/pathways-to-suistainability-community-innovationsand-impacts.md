@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pathways to Suistainability:  Community Innovationsand Impacts"
+title: "Pathways to Suistainability: Community Innovations and Impacts"
 date: 2024-10-29T09:03:34.421Z
 ---
 ![](/images/uploads/isbn-pathways-to-suistainability-community-innovationsand-impacts.jpg)
