@@ -3,10 +3,10 @@ layout: post
 title: H. Yetty Owner Sate Maranggi  PEREMPUAN  PENGUSAHA INSPIRATIF
 date: 2024-10-24T21:45:03.921Z
 ---
-![](/images/uploads/isbn-h.-yetty-cov.jpg)
+![](/images/uploads/isbn-h.-yetty-cover.jpg)
 
 **P﻿enulis:** Sapto Waluyo,
-Arif Syaifurrisal
+Arif Syaifurrisal, Fikri M. Haq
 
 **Harga:** Rp.75.000\
 \
