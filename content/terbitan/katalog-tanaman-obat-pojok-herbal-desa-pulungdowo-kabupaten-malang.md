@@ -3,7 +3,7 @@ layout: post
 title: Katalog Tanaman Obat Pojok Herbal Desa Pulungdowo Kabupaten Malang
 date: 2024-11-01T06:58:53.737Z
 ---
-![]()
+![](/images/uploads/isbn-katalog-tanaman-obat-pojok-herba.jpg)
 
 **P﻿enulis:** Wiwied Ekasari, Suciati,  Iswajuni, Firmansyah Ardian Ramadhani, Devanus Lahardo,  Annisa Tri Hutami,  Khalifa Yuliana, Edbert Rafael Tjandra,  Putri Ayu Purbiastuti, Novreza Avistha Nugroho, Aqila Aqhnia Fayza Gerriandi,
 Jasmine Aulia Akbar, Andini Putri R, Galuh Candra Wijayanti
