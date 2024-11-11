@@ -3,7 +3,7 @@ layout: post
 title: "Kurikulum PAI Berkemajuan: Peran Strategis Kepala Madrasah"
 date: 2024-11-11T08:16:39.488Z
 ---
-![]()
+![](/images/uploads/kurikulum-pai-berkemajuan.jpg)
 
 **P﻿enulis:** Wa Maryani, M.Pd
 
