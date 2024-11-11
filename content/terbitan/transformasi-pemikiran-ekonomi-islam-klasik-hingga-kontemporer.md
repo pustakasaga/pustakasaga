@@ -3,7 +3,7 @@ layout: post
 title: "TRANSFORMASI PEMIKIRAN  EKONOMI ISLAM:  KLASIK HINGGA KONTEMPORER"
 date: 2024-11-11T07:36:23.539Z
 ---
-![]()
+![](/images/uploads/isbn-transformasi.jpg)
 
 **P﻿enulis:** Ari Prasetyo, Muhamad Iqbal Haqiqi Maramis, 
 Afra Bahita Fridajaya, Muhammad Rozali,
