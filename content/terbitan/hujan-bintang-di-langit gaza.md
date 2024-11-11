@@ -3,7 +3,7 @@ layout: post
 title: Hujan Bintang di Langit Gaza
 date: 2024-11-11T08:12:50.401Z
 ---
-![]()
+![](/images/uploads/isbn-hujan-bintang-di-langit gaza.jpg)
 
 **P﻿enulis:** Derana Najah, Tsabitah Aulia, 
 ARezz Alfa, Nashakila, Anggra Alifia, 
