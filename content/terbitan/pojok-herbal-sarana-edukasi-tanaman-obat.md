@@ -3,7 +3,7 @@ layout: post
 title: "POJOK HERBAL: SARANA EDUKASI TANAMAN OBAT"
 date: 2024-11-12T06:34:46.115Z
 ---
-![]()
+![](/images/uploads/isbn-pojok-herba.jpg)
 
 **P﻿enulis:** Wiwied Ekasari, Suciati,  Iswajuni, 
 Firmansyah Ardian Ramadhani, Devanus Lahardo,\
