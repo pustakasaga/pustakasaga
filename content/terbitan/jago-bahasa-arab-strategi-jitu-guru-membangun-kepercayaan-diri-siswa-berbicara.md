@@ -4,7 +4,7 @@ title: "Jago Bahasa Arab : Strategi Jitu Guru Membangun Kepercayaan Diri Siswa
   Berbicara"
 date: 2024-11-12T06:19:50.791Z
 ---
-![]()
+![](/images/uploads/jago-bahasa-arab.jpg)
 
 **P﻿enulis:** Juliati, M.Pd.
 
