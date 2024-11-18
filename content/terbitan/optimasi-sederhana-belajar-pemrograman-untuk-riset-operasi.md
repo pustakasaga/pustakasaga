@@ -3,7 +3,7 @@ layout: post
 title: "Optimasi Sederhana: Belajar Pemrograman untuk Riset Operasi"
 date: 2024-11-18T07:32:35.998Z
 ---
-![]()
+![](/images/uploads/isbn-optimasi-sederhana-belajar-pemrograman-untuk-riset-operasi.jpg)
 
 **P﻿enulis:** Chandrawati Putri Wulandari
 
