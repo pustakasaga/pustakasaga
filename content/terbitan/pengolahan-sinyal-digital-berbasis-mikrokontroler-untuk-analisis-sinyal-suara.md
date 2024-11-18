@@ -3,7 +3,7 @@ layout: post
 title: Pengolahan Sinyal Digital Berbasis Mikrokontroler untuk Analisis Sinyal Suara
 date: 2024-11-18T13:19:31.035Z
 ---
-![]()
+![](/images/uploads/isbn-pengolahan-sinyal-digital-berbasis-mikrokontroler-untuk-analisis.jpg)
 
 **P﻿enulis:** Amila Sofiah
 
