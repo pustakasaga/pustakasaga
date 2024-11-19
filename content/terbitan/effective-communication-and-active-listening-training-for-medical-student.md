@@ -3,7 +3,7 @@ layout: post
 title: Effective Communication and Active Listening Training  for Medical Student
 date: 2024-11-19T20:40:51.496Z
 ---
-![]()
+![](/images/uploads/isbn-effective-communication.jpg)
 
 **P﻿enulis:** Zain Budi Syulthoni, Khairunnisa, Sayidah Aulia Ul Haque,
 Gama Dwi Fitrianawati, Shabrina Putri Ramadhani, Devi Maharani Dwi Arti, Yusak Kurniawan Luhur Wahyudi
