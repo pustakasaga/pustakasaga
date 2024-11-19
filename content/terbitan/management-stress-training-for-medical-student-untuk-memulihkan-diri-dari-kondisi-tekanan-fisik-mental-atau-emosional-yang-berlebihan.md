@@ -4,7 +4,7 @@ title: Management Stress Training  for Medical Student Untuk Memulihkan diri
   dari kondisi tekanan fisik,  mental, atau emosional yang berlebihan
 date: 2024-11-19T20:44:36.916Z
 ---
-![]()
+![](/images/uploads/isbn-management-stress.jpg)
 
 **P﻿enulis:** Zain Budi Syulthoni, Khairunnisa, Sayidah Aulia Ul Haque,
 Gama Dwi Fitrianawati, Shabrina Putri Ramadhani, Devi Maharani Dwi Arti, Yusak Kurniawan Luhur Wahyudi
