@@ -3,7 +3,7 @@ layout: post
 title: TEKNOLOGI PELAYANAN KESEHATAN BAGI PEMBANGUNAN BERKELANJUTAN
 date: 2024-11-20T23:17:35.039Z
 ---
-![]()
+![](/images/uploads/isbn-teknologi-pelayanan-kesehatan-bagi-pembangunan-berkelanjutan.jpg)
 
 **P﻿enulis:** Dr. Neffrety Nilamsari, S.Sos.,M.Kes; Eva Inaiyah Agustin, S.ST., M.T.; Fitri Retrialisca, S.Kom., M.Kom.; Ratih Damayati,S.KM.,M.Kes; Amellia Mardhika, S.Kep., Ns., M.Kes.
 
