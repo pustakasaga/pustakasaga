@@ -3,7 +3,7 @@ layout: post
 title: Aerial Robotics Basic with Ardupilot
 date: 2024-11-21T20:25:52.978Z
 ---
-![]()
+![](/images/uploads/isbn-aerial-robotics-basic-with-ardupilot.jpg)
 
 **P﻿enulis:** M Aldo Setiawan, 
 Ananta Adhi Wardana, Rizki Putra Prastio, Yahya Bachtiar, 
