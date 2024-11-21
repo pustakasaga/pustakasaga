@@ -3,7 +3,7 @@ layout: post
 title: "Agresivitas Pajak Perusahaan: Perspektif Teori dan Praktik"
 date: 2024-11-21T20:18:51.836Z
 ---
-![]()
+![](/images/uploads/agresivitas-pajak-perusahaan.jpg)
 
 **P﻿enulis:** Yanuar Nugroho, Bani Alkausar
 
