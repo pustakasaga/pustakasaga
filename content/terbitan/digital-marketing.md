@@ -3,7 +3,7 @@ layout: post
 title: " Digital Marketing "
 date: 2024-11-22T13:44:16.907Z
 ---
-![]()
+![](/images/uploads/digital-marketing.jpg)
 
 **P﻿enulis:** Dr. Rahmat Yuliawan., SE., MM., CHRM., CPM Asia,
 Dr. Dra. Fedianty Augustinah, MM
