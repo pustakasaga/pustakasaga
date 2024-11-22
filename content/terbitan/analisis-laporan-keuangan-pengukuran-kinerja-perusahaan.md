@@ -3,7 +3,7 @@ layout: post
 title: "Analisis Laporan Keuangan: Pengukuran Kinerja Perusahaan"
 date: 2024-11-22T04:27:18.898Z
 ---
-![]()
+![](/images/uploads/analisis-laporan-keuangan-pengukuran-kinerja-per.jpg)
 
 **P﻿enulis:** Riska Nur Rosyidiana, S.E., M.Ak., CRA., CAPF, 
  Yossy Imam Candika, S.E., M.S.M., AWP
