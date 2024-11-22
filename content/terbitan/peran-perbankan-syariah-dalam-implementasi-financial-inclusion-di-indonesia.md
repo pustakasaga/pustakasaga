@@ -3,11 +3,10 @@ layout: post
 title: Peran Perbankan Syariah dalam Implementasi Financial Inclusion di Indonesia
 date: 2024-11-22T05:15:35.129Z
 ---
-![]()
+![](/images/uploads/peran-perbankan-syariah-dalam-implementasi-financial-inclusion-di-indonesia.jpg)
 
 **P﻿enulis:** Siti Inayatul Faizah, Dian Filianti, 
 Uus Ahmad Husaeni
-
 
 **Harga:** Rp.65.000\
 \
