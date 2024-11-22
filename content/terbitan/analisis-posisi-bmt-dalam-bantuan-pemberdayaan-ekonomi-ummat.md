@@ -3,7 +3,7 @@ layout: post
 title: Analisis Posisi BMT dalam Bantuan Pemberdayaan Ekonomi Ummat
 date: 2024-11-22T04:59:11.037Z
 ---
-![]()
+![](/images/uploads/analisis-posisi-bmt-dalam-bantuan-pemberdayaan-ekonomi-ummat.jpg)
 
 **P﻿enulis:** Siti Inayatul Faizah,
 Uus Ahmad Husaeni,
