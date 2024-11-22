@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimasi Digital Marketing untuk industri pariwisata dan industri kreatif
+title: Optimalisasi Digital Marketing untuk industri pariwisata dan industri kreatif
 date: 2024-11-22T13:38:02.906Z
 ---
 ![](/images/uploads/optimasi-digital-marketing-untuk-industri-pariwisata-dan-industri.jpg)
