@@ -3,7 +3,7 @@ layout: post
 title: Mengenal Metode Sintesis Nanomaterial di Laboratorium
 date: 2024-11-22T07:46:51.206Z
 ---
-![]()
+![](/images/uploads/isbn-mengenal-metode-sintesis-nanomaterial-di-laboratorium.jpg)
 
 **P﻿enulis:** Ilma Amalina, Retno Sari, 
 Mochamad Lutfi Firmansyah, Tahta Amrillah, 
