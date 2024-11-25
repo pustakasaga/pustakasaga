@@ -3,7 +3,7 @@ layout: post
 title: HEALING GAZA'S WOUND
 date: 2024-11-25T04:02:39.055Z
 ---
-![]()
+![](/images/uploads/isbn-gaza.jpg)
 
 **P﻿enulis:** dr.Prita Kusumaningsih, Sp.OG., DR.dr.Basuki Supartono, Sp.OT, FICS, MARS, dr. H. Dadang Rukanta, Sp.OT, M.Kes, dr.Jamaludin, Sp.M, dr.Kiagus Erick, Sp.An, M.Kes, dr. M. Djazuli Ambari, SKM, M.Si, Sinta Yudisia, Muhammad Rudi, dr.Fuadi Yatim, Sp.KJ, dr.Adang Sudrajat Rosadhie
 
