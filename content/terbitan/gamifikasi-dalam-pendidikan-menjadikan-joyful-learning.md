@@ -3,7 +3,7 @@ layout: post
 title: "Gamifikasi dalam Pendidikan: Menjadikan Joyful Learning"
 date: 2024-11-25T04:53:58.919Z
 ---
-![]()
+![](/images/uploads/isbn-gamifikasi-dalam-pendidikan.jpg)
 
 **P﻿enulis:** Prof. Dr. Achmad Lutfi, M.Pd.
 
