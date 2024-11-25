@@ -5,8 +5,9 @@ date: 2024-11-25T09:15:22.140Z
 ---
 ![](/images/uploads/isbn-mendesain-uiux-website-houset-inovasi-teknologi-augmented-reality-ar-.jpg)
 
-**P﻿enulis:** Alisa Dwi Putri, S.Ds., M.Ds.,
-Hanif Azhar, S.T., M.Sc.
+**P﻿enulis:** Alisa Dwi Putri, S.Ds.,
+Hanif Azhar, S.T., M.Sc.,
+Sheila Andita Putri, S.Ds., M.Ds.
 
 **Harga:** Rp.75.000\
 \
