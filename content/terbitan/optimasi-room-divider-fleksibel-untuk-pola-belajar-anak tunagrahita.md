@@ -5,7 +5,7 @@ date: 2024-11-25T09:16:59.833Z
 ---
 ![](/images/uploads/isbn-optimas-room-devider.jpg)
 
-**P﻿enulis:** Alisa Dwi Putri, S.Ds., M.Ds.,
+**P﻿enulis:** Alisa Dwi Putri, S.Ds., 
 Dr. Didit Widiatmoko Soewardikoen, M.Sn,
 Hanif Azhar, S.T., M.Sc.
 
