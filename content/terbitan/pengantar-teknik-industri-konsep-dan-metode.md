@@ -5,8 +5,9 @@ date: 2024-11-25T06:46:25.949Z
 ---
 ![](/images/uploads/isbn-pengantar-teknik-industri.jpg)
 
-**P﻿enulis:** Shofa Aulia Aldhama,
-Rizky Astari Rahmania
+**P﻿enulis:** Shofa Aulia Aldhama,  Rizky Astari Rahmania, 
+Chandrawati Putri Wulandari,  Gunawan Setia Prihandana, 
+Kartika Nur ‘Anisa’, Laras Swandayani, Muniroh
 
 **Harga:** Rp.55.000\
 \
