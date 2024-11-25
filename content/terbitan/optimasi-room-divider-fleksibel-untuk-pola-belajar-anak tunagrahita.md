@@ -3,7 +3,7 @@ layout: post
 title: OPTIMASI ROOM DIVIDER FLEKSIBEL UNTUK POLA BELAJAR ANAK TUNAGRAHITA
 date: 2024-11-25T09:16:59.833Z
 ---
-![](/images/uploads/isbn-optimas-room-devider.jpg)
+![](/images/uploads/isbn-optimas-room-deviderss.jpg)
 
 **P﻿enulis:** Alisa Dwi Putri, S.Ds., 
 Dr. Didit Widiatmoko Soewardikoen, M.Sn,
