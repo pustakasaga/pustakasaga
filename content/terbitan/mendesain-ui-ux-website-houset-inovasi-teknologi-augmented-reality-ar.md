@@ -3,7 +3,7 @@ layout: post
 title: "Mendesain UI/UX Website Houset: Inovasi Teknologi Augmented Reality (AR)"
 date: 2024-11-25T09:15:22.140Z
 ---
-![](/images/uploads/isbn-mendesain-uiux-website-houset-inovasi-teknologi-augmented-reality-ar-.jpg)
+![](/images/uploads/isbn-mendesain-uiux.jpg)
 
 **P﻿enulis:** Alisa Dwi Putri, S.Ds.,
 Hanif Azhar, S.T., M.Sc.,
