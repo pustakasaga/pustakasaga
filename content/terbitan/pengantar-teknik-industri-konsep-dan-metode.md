@@ -3,7 +3,7 @@ layout: post
 title: "PENGANTAR TEKNIK INDUSTRI: KONSEP DAN METODE"
 date: 2024-11-25T06:46:25.949Z
 ---
-![](/images/uploads/isbn-pengantar-teknik-industri.jpg)
+![](/images/uploads/isbn-pengantar-teknik-industrisss.jpg)
 
 **P﻿enulis:** Shofa Aulia Aldhama,  Rizky Astari Rahmania, 
 Chandrawati Putri Wulandari,  Gunawan Setia Prihandana, 
