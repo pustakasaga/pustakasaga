@@ -3,7 +3,7 @@ layout: post
 title: Budidaya Berlandaskan Kualitas Air dan Produksi Fitoplankton
 date: 2024-11-26T10:02:29.555Z
 ---
-![]()
+![](/images/uploads/isbn-budidaya-berlandaskan-kualitas-air-dan-produksi-fitoplankton.jpg)
 
 **P﻿enulis:** Daruti Dinda Nindarwi & Luthfiana Aprilianita Sari
 
