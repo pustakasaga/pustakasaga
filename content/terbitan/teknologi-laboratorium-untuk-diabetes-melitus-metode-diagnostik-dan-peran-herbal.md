@@ -4,7 +4,7 @@ title: "Teknologi Laboratorium untuk Diabetes Melitus: Metode Diagnostik dan
   Peran Herbal"
 date: 2024-11-26T09:48:04.408Z
 ---
-![]()
+![](/images/uploads/teknologi-laboratorium-untuk-diabetes-melitus.jpg)
 
 **P﻿enulis:** Dr. Anita Kurniati, S.Si., M.Si, Amalia Ajrina, S,Si., M.Si, Belgis, S.Si., M.Si
 
