@@ -3,7 +3,7 @@ layout: post
 title: RAGAM PARASIT PADA IKAN WADER
 date: 2024-11-27T10:39:52.034Z
 ---
-![]()
+![](/images/uploads/isbn-ragam-parasit-pada-ikan-wader.jpg)
 
 **P﻿enulis:** Putri Desi Wulan Sari &
  Kismiyati
