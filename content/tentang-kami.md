@@ -4,7 +4,7 @@ type: about
 weight: 3
 title: Tentang Kami
 ---
-![about](/images/uploads/17952944_1667884916854011_5984558549685735420_n.jpg)
+![about](/images/uploads/whatsapp-image-2024-11-29-at-17.43.21_8ae7952f.jpg)
 
 PT Pustaka Saga Jawadwipa biasa dikenal dengan Pustaka Saga adalah penerbit yang berdomisili di Kota pahlawan Surabaya. Didirikan oleh tiga alumni Unair. Pustaka Saga konsisten membersamai sahabat-sahabat pembaca dengan menerbitkan buku-buku sosial humaniora, kepemudaan, sastra, sains dan pemikiran.\
 \
