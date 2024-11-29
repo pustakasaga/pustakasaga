@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bagaimana Cara Mengajukan ISBN?
+title: Bagaimana Cara Mengajukan ISBN untuk Menerbitkan Buku?
 date: 2024-11-29T06:25:00.604Z
 ---
 ![](/images/uploads/isbn-3-300x158.jpg)
