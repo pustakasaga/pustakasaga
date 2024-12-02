@@ -5,7 +5,8 @@ date: 2024-11-29T05:59:35.906Z
 ---
 ![](/images/uploads/isbn-jamu-kearifan-lokal-di-tengah-pandemi-covid-19.jpg)
 
-**P﻿enulis:** Wiwied Ekasari, dkk.
+**P﻿enulis:** Wiwied Ekasari, Nisa’ Musyafa’atullah, Wikanti Sunaringtyas, 
+Ramadhannia Khair 
 
 **Harga:** Rp.75.000\
 \
