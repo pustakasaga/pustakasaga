@@ -3,7 +3,7 @@ layout: post
 title: "Jamu: Kearifan Lokal di tengah Pandemi Covid-19"
 date: 2024-11-29T05:59:35.906Z
 ---
-![]()
+![](/images/uploads/isbn-jamu-kearifan-lokal-di-tengah-pandemi-covid-19.jpg)
 
 **P﻿enulis:** Wiwied Ekasari, dkk.
 
