@@ -6,12 +6,11 @@ date: 2024-12-04T06:30:45.934Z
 ![](/images/uploads/isbn-fasilitasi-pendidikan-kedokteran-di-komunitas.jpg)
 
 **P﻿enulis:** Samsriyaningsih Handayani, dr., M.Kes., M.Ed., Ph.D,
-Dr. Hermanto Tri Joewono, dr., Sp.OG.SubSp.K.Fm,
+Dr. Hermanto Tri Joewono, dr., Sp.OG.SubSp.K.Fm, Prof. Dr. Gatot Soegiarto, dr., Sp.PD, K-AI, FINASIM.,
 Atika, S.Si., M.Kes.,
 Pirlina Umiastuti, dr., Dip. in Pop., M.Kes., Dip. in Ethics.,
 Ika Dwi Martanti, S.Keb., Bd.,
 Lila Amila, dr.,
-Prof. Dr. Gatot Soegiarto, dr., Sp.PD, K-AI, FINASIM.,
 Hidayatullah, dr., Sp.N,
 Fithriyah Cholifatul Ummah, dr., M.Med.Ed
 
