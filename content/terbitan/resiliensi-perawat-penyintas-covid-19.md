@@ -5,7 +5,7 @@ date: 2024-12-04T00:44:32.084Z
 ---
 ![](/images/uploads/isbn-resiliensi-perawat-penyintas-covid-19.jpg)
 
-**P﻿enulis:** Dr. Yulis Setiya Dewi, S.Kep., Ns. M.Ng, Arina Qona’ah, S.Kep., Ns., M.Kep, Prof. Dr. H. Kusnanto, S.Kp., M.Kes, Rosita, S.Kep
+**P﻿enulis:** Dr. Yulis Setiya Dewi, S.Kep., Ns. M.Ng, Arina Qona’ah, S.Kep., Ns., M.Kep, Prof. Dr. H. Kusnanto, S.Kp., M.Kes, Hidayat Arifin, S.Kep., Ns., M.Kep, Rosita, S.Kep
 
 **Harga:** Rp.75.000\
 \
