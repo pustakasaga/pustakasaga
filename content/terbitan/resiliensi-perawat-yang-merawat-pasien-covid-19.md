@@ -5,7 +5,7 @@ date: 2024-12-04T00:41:28.521Z
 ---
 ![](/images/uploads/isbn-resiliensi-perawat-yang-merawat-pasien-covid-19.jpg)
 
-**P﻿enulis:** Dr. Yulis Setiya Dewi, S.Kep., Ns. M.Ng, Rifky Ocatvia Pradipta, S.Kep., Ns., M.Kep, Prof. Dr. H. Kusnanto, S.Kp.,  Rosita, S.Kep
+**P﻿enulis:** Dr. Yulis Setiya Dewi, S.Kep., Ns. M.Ng, Rifky Ocatvia Pradipta, S.Kep., Ns., M.Kep, Prof. Dr. H. Kusnanto, S.Kp., M.Kes,  Rosita, S.Kep
 
 **Harga:** Rp.75.000\
 \
