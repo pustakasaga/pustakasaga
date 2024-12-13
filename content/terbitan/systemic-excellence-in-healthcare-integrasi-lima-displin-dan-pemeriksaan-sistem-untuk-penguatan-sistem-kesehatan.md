@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Systemic Excellence in Healthcare: Integrasi Lima Displin dan
-  Pemeriksaan Sistem untuk Penguatan Sistem Kesehatan"
+  Pemikiran  Sistem untuk Penguatan Sistem Kesehatan"
 date: 2024-12-13T10:32:46.358Z
 ---
-![](/images/uploads/isbn-systemic-excellence-in-healthcare.jpg)
+![](/images/uploads/isbn-systemic-excellence-in-healthcares.jpg)
 
 **P﻿enulis:** drg. Mutia Ulfah, dr. Irvan Ramadhie, dr. Regita Marta, drg. Sakinah Azzahra Adam, Shafa Aprilianingrum Saepulloh S.Kep., Ners
 
