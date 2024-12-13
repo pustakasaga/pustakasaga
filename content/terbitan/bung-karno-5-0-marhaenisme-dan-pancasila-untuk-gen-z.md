@@ -3,9 +3,9 @@ layout: post
 title: "Bung Karno 5.0 : Marhaenisme dan Pancasila untuk Gen Z"
 date: 2024-12-13T10:29:13.287Z
 ---
-![](/images/uploads/bung-karno-5.0.jpg)
+![](/images/uploads/bung-karno-5.0-s.jpg)
 
-**P﻿enulis:** Dharma Setyawan, Mustika Edi Santoso
+**P﻿enulis:** Robert Edy Sudarwan, Dharma Setyawan, Mustika Edi Santoso
 
 **Harga:** Rp.75.000\
 \
