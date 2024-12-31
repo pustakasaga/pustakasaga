@@ -3,7 +3,7 @@ layout: post
 title: KEPEMIMPINAN DAN PROFESI TENAGA PENDIDIK PNFI
 date: 2024-12-28T13:29:07.464Z
 ---
-![](/images/uploads/kepemimpinan-dan-profesi-pendidik.jpg)
+![](/images/uploads/isbn-kepemimpinan-dan-profesi-pendidik.jpg)
 
 **P﻿enulis:** DR. Lasi Purwito, M.S
 
