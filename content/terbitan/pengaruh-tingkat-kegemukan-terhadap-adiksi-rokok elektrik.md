@@ -5,7 +5,7 @@ date: 2024-12-29T04:55:51.209Z
 ---
 ![](/images/uploads/isbn-pengaruh-tingkat-kegemukan-terhadap-adiksi-rokok elektrik.jpg)
 
-**P﻿enulis:** dr. Prananda Darmobaroto Adisasmito, 
+**P﻿enulis:** dr. Prananda D. Adisasmito, 
 dr. Shela Rachmayanti, M.Epid
 
 **Harga:** Rp.75.000\
