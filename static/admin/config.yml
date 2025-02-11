@@ -1,0 +1,119 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+#publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads" 
+site_url: https://pustakasaga.com/
+display_url: https://pustakasaga.com/
+collections:
+  - name: "home"
+    label: "Home"
+    files:
+      - label: "Homepage"
+        name: "home"
+        file: "content/home/subheader.md"
+        fields: 
+          - {label: "Type", name: "type", widget: "hidden", default: "subheader"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+  - name: "terbitan"
+    label: "Terbitan"
+    folder: "content/terbitan"
+    create: true 
+    sort: "date:desc"
+    sortable_fields: ['title', 'date']
+    slug: "{{slug}}" 
+    summary: "{{title}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime",date_format: "DD.MM.YYYY",time_format: "HH:mm"}
+      - label: "PDF"
+        name: "pdf"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: false      
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "articles"
+    label: "Articles Jurnal Saga"
+    folder: "content/articles"
+    create: true 
+    sort: "date:desc"
+    sortable_fields: ['title', 'date']
+    slug: "{{slug}}" 
+    summary: "{{title}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "PDF"
+        name: "pdf"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - {label: "Publish Date", name: "date", widget: "datetime",date_format: "DD.MM.YYYY",time_format: "HH:mm"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "articles2"
+    label: "Articles Jurnal Suluh Dipanegara"
+    folder: "content/articles2"
+    create: true 
+    sort: "date:desc"
+    sortable_fields: ['title', 'date']
+    slug: "{{slug}}" 
+    summary: "{{title}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "PDF"
+        name: "pdf"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - {label: "Publish Date", name: "date", widget: "datetime",date_format: "DD.MM.YYYY",time_format: "HH:mm"}
+      - {label: "Body", name: "body", widget: "markdown"}      
+  - name: "halaman"
+    label: "Halaman"
+    folder: "content"
+    create: true 
+    sort: "date:desc"
+    sortable_fields: ['title', 'date']
+    slug: "{{slug}}" 
+    summary: "{{title}}"
+    fields: 
+      - {label: "Menu", name: "menu", widget: "hidden", default: "main",required: false}
+      - {label: "Type", name: "type", widget: "hidden", default: "about"}
+      - {label: "Wight", name: "weight", widget: "hidden", default: "10",required: false}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Giat Literasi"
+    label: "Articles Giat Literasi"
+    folder: "content/giat-literasi"
+    create: true 
+    sort: "date:desc"
+    sortable_fields: ['title', 'date']
+    slug: "{{slug}}" 
+    summary: "{{title}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime",date_format: "DD.MM.YYYY",time_format: "HH:mm"}
+      - {label: "Body", name: "body", widget: "markdown"}  
+  - name: "Kelas Menulis"
+    label: "Articles Kelas Menulis"
+    folder: "content/kelas-menulis"
+    create: true 
+    sort: "date:desc"
+    sortable_fields: ['title', 'date']
+    slug: "{{slug}}" 
+    summary: "{{title}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime",date_format: "DD.MM.YYYY",time_format: "HH:mm"}
+      - {label: "Body", name: "body", widget: "markdown"}        
