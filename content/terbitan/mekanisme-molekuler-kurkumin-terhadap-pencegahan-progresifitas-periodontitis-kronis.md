@@ -4,7 +4,7 @@ title: Mekanisme Molekuler Kurkumin Terhadap Pencegahan Progresifitas
   Periodontitis Kronis
 date: 2025-02-12T06:33:13.664Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-02-12-133223.jpg)
 
 **P﻿enulis:** Agung Krismariono
 
