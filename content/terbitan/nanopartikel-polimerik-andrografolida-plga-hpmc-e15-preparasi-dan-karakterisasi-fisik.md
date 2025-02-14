@@ -4,7 +4,7 @@ title: Nanopartikel Polimerik Andrografolida - PLGA - HPMC E15 Preparasi dan
   Karakterisasi Fisik
 date: 2025-02-14T04:51:34.646Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-02-14-115037.jpg)
 
 **P﻿enulis:** Retno Sari,
 Putri Ajeng Pitaloka,
