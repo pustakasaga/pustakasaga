@@ -3,7 +3,7 @@ layout: post
 title: INTRODUCTION TO BASIC PHARMACEUTICAL CHEMISTRY IN LABORATORY
 date: 2025-02-11T14:34:01.563Z
 ---
-![](/images/uploads/screenshot-2025-02-11-165139.jpg)
+![](/images/uploads/screenshot-2025-02-14-131823.jpg)
 
 **P﻿enulis:** Prof. Dr. apt. Juni Ekowati, M.Si.,
 apt. Diajeng Putri Paramita, S.Farm., M.Si.,
