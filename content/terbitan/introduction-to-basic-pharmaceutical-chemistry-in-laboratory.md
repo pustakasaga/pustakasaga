@@ -5,15 +5,7 @@ date: 2025-02-11T14:34:01.563Z
 ---
 ![](/images/uploads/screenshot-2025-02-14-131823.jpg)
 
-**P﻿enulis:** Prof. Dr. apt. Juni Ekowati, M.Si.,
-apt. Diajeng Putri Paramita, S.Farm., M.Si.,
-Dr. apt. Riesta Primaharinastiti, Msi.,
-apt. Kholis Amalia N., S.Farm., M.Sc.,
-apt. Muhammad Faris Adrianto, S.Farm., M.Farm., Ph.D.,
-apt. Melanny Ika Sulistyowaty, S.Farm., M.Sc. Ph.D.,
-apt. Febri Annuryanti, S.Farm., M.Sc.,
-Prof. apt. Hadi Poerwono, MSc., PhD.,
-Prof. Dr. apt. Marcellino Rudyanto, Msi.
+**P﻿enulis:** Prof. Dr. apt. Juni Ekowati, M.Si., apt. Diajeng Putri Paramita, S.Farm., M.Si., Dr. apt. Riesta Primaharinastiti, Msi., apt. Kholis Amalia N., S.Farm., M.Sc., apt. Muhammad Faris Adrianto, S.Farm., M.Farm., Ph.D., apt. Melanny Ika Sulistyowaty, S.Farm., M.Sc. Ph.D., apt. Febri Annuryanti, S.Farm., M.Sc., PhD.,  Prof. apt. Hadi Poerwono, M.Sc, PhD., Prof. apt. Marcellino Rudyanto, M.Si, PhD.  
 
 **Harga:** Rp.75.000\
 \
