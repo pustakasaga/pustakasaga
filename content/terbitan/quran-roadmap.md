@@ -3,7 +3,7 @@ layout: post
 title: Quran Roadmap
 date: 2025-02-18T11:41:10.593Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-02-18-183228.jpg)
 
 **P﻿enulis:** Lilyan Puspita N, S.S. MBA, Ali Ridho, S.S. Al Hafidz, Isna SS. Al Hafidzah, Farida Purnaminingrum, S.Kom, Burhanuddin FA.
 
