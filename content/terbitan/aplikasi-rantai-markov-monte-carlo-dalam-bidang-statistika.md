@@ -3,7 +3,7 @@ layout: post
 title: APLIKASI RANTAI MARKOV-MONTE CARLO DALAM BIDANG STATISTIKA
 date: 2025-02-19T09:43:38.256Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-02-19-164241.jpg)
 
 **P﻿enulis:** Prof. Kuntoro, dr, MPH, DrPH
 
