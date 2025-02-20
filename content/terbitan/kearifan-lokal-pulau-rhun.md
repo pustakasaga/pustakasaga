@@ -3,7 +3,7 @@ layout: post
 title: KEARIFAN LOKAL PULAU RHUN
 date: 2025-02-20T10:45:06.002Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-02-20-174437.jpg)
 
 **P﻿enulis:** Muhammad Farid, Kasman Renyaan
 
