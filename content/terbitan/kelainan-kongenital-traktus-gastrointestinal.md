@@ -3,7 +3,7 @@ layout: post
 title: Kelainan Kongenital Traktus Gastrointestinal
 date: 2025-02-24T06:14:51.721Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-02-24-131349.jpg)
 
 **P﻿enulis:** Prof. Dr. dr Subijanto Marto Soedarmo, Sp.A(K)
 
