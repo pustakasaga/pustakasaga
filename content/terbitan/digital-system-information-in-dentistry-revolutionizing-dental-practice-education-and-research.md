@@ -4,9 +4,9 @@ title: "Digital System Information In Dentistry: Revolutionizing Dental
   Practice, Education, And Research"
 date: 2025-03-01T05:04:32.290Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-03-01-120347.jpg)
 
-**P﻿enulis:** Prof.Dr.R.Darmawan Setijanto,drg.,M.Kes.,FISDPH.FISPD
+**P﻿enulis:** Prof. Dr. R. Darmawan Setijanto, drg., M.Kes., FISDPH.FISPD
 
 **Harga:** Rp.75.000\
 \
