@@ -6,7 +6,11 @@ date: 2025-03-01T05:04:32.290Z
 ---
 ![](/images/uploads/screenshot-2025-03-01-121314.jpg)
 
-**P﻿enulis:** Darmawan Setijanto
+**P﻿enulis:** Prof. Dr. R. Darmawan Setijanto, drg., M.Kes., FISDPH-FISPD., \
+Dr. Gilang Rasuna Sabdho Wening, drg., M.Kes., 
+Drg. Putu Indra Setiapradana, Sp. Ort., 
+Drg. Made Dwiandri Satyaputra, Sp. Pros., 
+Prof. Dr. drg. Nyoman Anita Damayanti, M.S.  
 
 **Harga:** Rp.75.000\
 \
