@@ -3,7 +3,7 @@ layout: post
 title: "Administrasi Modern: Sinergi Ilmu, Seni, dan Teknologi"
 date: 2025-03-08T08:59:53.170Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-03-08-155815.jpg)
 
 **P﻿enulis:** Rizky Amalia Sinulingga,
 Gagas Gayuh Aji,
