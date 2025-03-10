@@ -3,7 +3,7 @@ layout: post
 title: Kepemimpinan
 date: 2025-03-10T06:21:55.070Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-03-10-132007.jpg)
 
 **P﻿enulis:** Prof. Dr. Thomas Santoso, M.Si.
 
