@@ -4,7 +4,7 @@ title: "ANATOMI TEORI SOSIAL II:  Teknik Bedah Teori Untuk Rekonstruksi Teori
   Baru Dalam Penelitian"
 date: 2025-03-17T07:19:46.913Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-03-17-142048.jpg)
 
 **P﻿enulis:** Dr. Muhammad Farid, M.Sos. | 
 Dr. Abdul Main, M.Hum. | Dr. Arie Wahyu Prananta, SPi, M.Sos. | 
