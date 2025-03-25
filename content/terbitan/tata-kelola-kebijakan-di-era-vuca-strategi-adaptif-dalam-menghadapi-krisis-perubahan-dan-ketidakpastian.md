@@ -4,11 +4,9 @@ title: "TATA KELOLA KEBIJAKAN DI ERA VUCA:  Strategi Adaptif dalam Menghadapi
   Krisis, Perubahan, dan Ketidakpastian"
 date: 2025-03-25T12:55:14.789Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-03-25-195730.jpg)
 
-**P﻿enulis:** Muhammad Dzulfikar Al Ghofiqi, Elis Mardianti, Erna Setijaningrum, 
-Amanca Pamalina Lapasa, M. Roehman Zainur Riedho, 
-Sulikah Asmorowati, Farchan Maulana 
+**P﻿enulis:** Elis Mardianti, Muhammad Dzulfikar Al Ghofiqi, Sulikah Asmorowati, Muhammad Chasan Amrulloh, Farchan Maulana, Jusuf Irianto, Andrean Caspari, Muhammad Roehman Zainur Riedho, Erna Setijaningrum
 
 **Harga:** Rp.75.000\
 \
