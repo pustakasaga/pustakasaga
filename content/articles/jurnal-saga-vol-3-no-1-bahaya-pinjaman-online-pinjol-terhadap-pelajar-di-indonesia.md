@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "(Jurnal SAGA vol 3: no 1) **Bahaya Pinjaman Online (Pinjol) terhadap
-  Pelajar di Indonesia**"
+title: "(Jurnal SAGA vol 3: no 1) Bahaya Pinjaman Online (Pinjol) terhadap
+  Pelajar di Indonesia"
 pdf: /images/uploads/5.-bahaya-pinjaman-online.pdf
 date: 2025-04-22T23:15:14.878Z
 ---
