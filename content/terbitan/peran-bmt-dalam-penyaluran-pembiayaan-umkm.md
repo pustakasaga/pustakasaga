@@ -3,7 +3,7 @@ layout: post
 title: Peran BMT dalam Penyaluran Pembiayaan UMKM
 date: 2025-05-02T12:20:43.667Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-05-02-192836.jpg)
 
 **P﻿enulis:** Sri Herianingrum | Meri Indri Hapsari |
  R. Moh. Qudsi Fauzi | Hanif Fadhlillah |
