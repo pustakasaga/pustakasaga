@@ -3,7 +3,7 @@ layout: post
 title: METODE BACA AL-QUR`AN “ADZ DZIKRO” (Jilid 5)
 date: 2025-05-19T01:13:53.560Z
 ---
-![]()
+![](/images/uploads/screenshot-2025-05-19-081700.jpg)
 
 **P﻿enulis:** Fatkhur Rozi, S.Th.I., Irawan Irdianto, S.Hum
 
