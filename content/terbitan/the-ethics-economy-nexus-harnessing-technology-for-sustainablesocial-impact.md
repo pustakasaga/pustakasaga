@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The Ethics-Economy Nexus: Harnessing Technology for SustainableSocial Impact"
+title: "The Ethics-Economy Nexus: Harnessing Technology for Sustainable Social Impact"
 date: 2025-05-22T13:13:42.443Z
 ---
-![](/images/uploads/screenshot-2025-05-22-201032.jpg)
+![](/images/uploads/screenshot-2025-05-22-202730.jpg)
 
 **P﻿enulis:** Prof. Dr. Dian Agustia, SE., M.Si., Ak., CMA., CA.; 
 Dr. Wisnu Wibowo; Prof. Dr. Nisful Laila; 
