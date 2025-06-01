@@ -4,7 +4,7 @@ title: "Check-in Etika, Check-out Masalah: Refleksi Etika Profesi di Industri
   Perhotelan"
 date: 2025-06-01T08:54:45.745Z
 ---
-![](/images/uploads/check-in-etika-isbn.jpg)
+![](/images/uploads/check-in-etika-isbnss.jpg)
 
 **P﻿enulis:** Dian Y Reindrawati, 
 Nur Emma Suriani, 
