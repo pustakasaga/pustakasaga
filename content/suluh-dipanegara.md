@@ -6,7 +6,7 @@ title: Suluh Dipanegara
 ---
 ![](/images/uploads/kop-suluh.jpg)
 
-SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat adalah jurnal nasional yang berisi hasil-hasil kegiatan pengabdian dan pemberdayaan masyarakat berupa penerapan berbagai bidang ilmu diantaranya pendidikan, teknik, pertanian, perikanan, peternakan, sosial humaniora, komputer dan kesehatan. SULUH DIPANEGARA terbit satu tahun sekali pada bulan mei.\
+SULUH DIPANEGARA: Jurnal Pengabdian Masyarakat adalah jurnal nasional yang berisi hasil-hasil kegiatan pengabdian dan pemberdayaan masyarakat berupa penerapan berbagai bidang ilmu diantaranya pendidikan, teknik, pertanian, perikanan, peternakan, sosial humaniora, komputer dan kesehatan. SULUH DIPANEGARA terbit satu tahun sekali pada bulan Mei.\
 \
 [Editorial](/editorial-jurnal-suluh-dipanegara/)
 
