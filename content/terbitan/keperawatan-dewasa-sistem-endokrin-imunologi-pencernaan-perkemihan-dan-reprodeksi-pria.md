@@ -4,7 +4,7 @@ title: "KEPERAWATAN DEWASA: SISTEM ENDOKRIN, IMUNOLOGI, PENCERNAAN, PERKEMIHAN
   DAN REPRODEKSI PRIA"
 date: 2025-06-20T03:57:33.761Z
 ---
-![](/images/uploads/isbn-keperawatan-dewasa.jpg)
+![](/images/uploads/isbn-keperawatan-dewasassss.jpg)
 
 **P﻿enulis:**  Octo Zulkarnain,S.Kep.,Ns.,M.Imun, Alpian Jayadi, S.Kep.,Ns.,M.Imun, Denis Farida,S.Kep.,Ns.,M.Tr.Kep
 
