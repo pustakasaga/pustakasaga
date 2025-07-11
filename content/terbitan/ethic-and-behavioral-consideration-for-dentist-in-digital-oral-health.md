@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ethic and Behavioral Consideration for Dentist in Digital Oral Health
+title: Ethic and Behavioral Consideration for Dentist in Digital Oral Health Education
 date: 2025-07-11T09:16:46.620Z
 ---
-![](/images/uploads/isbn-ethic-and-behavioral-consideration-for-dentist-in-digital-oral-health.jpg)
+![](/images/uploads/isbn-ethic-and-behavioral-consideration-for-dentist-in-digital-oral-health-edu.jpg)
 
 **P﻿enulis:** Gilang Rasuna Sabdho Wening; Fidya Meditia Putri;
 Latifah Fitriani Rakhman; Goalbertus; Netty Suryanti;
