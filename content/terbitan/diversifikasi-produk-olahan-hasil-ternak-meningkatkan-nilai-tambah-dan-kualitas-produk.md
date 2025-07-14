@@ -7,7 +7,7 @@ date: 2025-07-12T10:40:33.520Z
 ![](/images/uploads/isbn-deversifikasi.jpg)
 
 **P﻿enulis:** Dr. Rochmah Kurnijasanti, drh., MSi,
-Prof. Sri Agus Sudjarwo, dth., PhD
+Prof. Sri Agus Sudjarwo, drh., PhD
 
 **Harga:** Rp.75.000\
 \
