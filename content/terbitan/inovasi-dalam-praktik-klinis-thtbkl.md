@@ -12,7 +12,7 @@ Audi Wahyu Utomo, dr., Sp.T.H.T.B.K.L,
 Yogi Putra Adhi Pradana, dr., Sp. T.H.T.B.K.L, 
 Rosydiah Rahmawati, dr., Sp. T.H.T.B.K.L., Subsp.Oto.(K), 
 Dr. Artono, dr., Sp. T.H.T.B.K.L., Subsp.Oto.(K),FICS, 
-Rosa Falerina, dr., Sp. T.H.T.B.K.L., Subsp.N.O.(K), 
+Haris M. Ekorini, dr., Sp. T.H.T.B.K.L., Subsp.N.O.(K), 
 Sofia Tiarini, dr., Sp. T.H.T.B.K.L, Elsa Rosalina, dr., Sp. T.H.T.B.K.L, 
 Irwan Kristyono, dr, Sp. T.H.T.B.K.L., Subsp.Rino.(K),FICS, 
 Caesarisma Vidiyanti , dr., Sp.T.H.T.B.K.L
