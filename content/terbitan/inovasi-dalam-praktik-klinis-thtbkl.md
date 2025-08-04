@@ -3,7 +3,7 @@ layout: post
 title: INOVASI DALAM PRAKTIK KLINIS THTBKL
 date: 2025-08-04T01:00:30.615Z
 ---
-![](/images/uploads/inovasi-dalam-praktek-klinis-tht-isbn.jpg)
+![](/images/uploads/inovasi-dalam-praktek-klinis-tht-isbns.jpg)
 
 **P﻿enulis:** Rizka Fathoni Perdana, dr., Sp. T.H.T.B.K.L., Subsp.B.E.(K),FICS,
  Diar Mia Ardani, dr., Sp. T.H.T.B.K.L., Subsp.L.F.(K),FICS, 
