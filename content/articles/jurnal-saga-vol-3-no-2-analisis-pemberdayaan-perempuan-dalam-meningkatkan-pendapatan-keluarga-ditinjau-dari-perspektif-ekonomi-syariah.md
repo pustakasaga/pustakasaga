@@ -7,9 +7,9 @@ date: 2025-08-13T08:42:57.679Z
 ---
 **ANALISIS PEMBERDAYAAN PEREMPUAN DALAM MENINGKATKAN PENDAPATAN KELUARGA DITINJAU DARI PERSPEKTIF EKONOMI SYARIAH**\
 \
-**\*Amelia Putri Regita Cahyani, Diah Fithrah Hafiliyah**
+**Amelia Putri Regita Cahyani, Diah Fithrah Hafiliyah**\
 Fakultas Ekonomi dan Bisnis Islam 
-Universitas Qomaruddin Gresik*
+Universitas Qomaruddin Gresik
 
 **Jurnal SAGA vol 3 no 2 (Agustus-Desember 2025)** \
 ISSN: 3025-4752
