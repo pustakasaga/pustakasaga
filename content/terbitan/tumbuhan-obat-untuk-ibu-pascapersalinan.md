@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tumbuhan Obat Untuk Ibu Pascapersalinan
+title: Tumbuhan Obat Untuk Ibu Pasca Persalinan
 date: 2025-09-14T10:26:58.169Z
 ---
 ![](/images/uploads/isbn-tumbuhan-obat-untuk-ibu-pasca-persalinan.jpg)
