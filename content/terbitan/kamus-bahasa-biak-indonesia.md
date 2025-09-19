@@ -3,9 +3,9 @@ layout: post
 title: Kamus Bahasa Biak- Indonesia
 date: 2025-09-06T02:09:25.321Z
 ---
-![](/images/uploads/kamus-bahasa-biak-indonesia.jpg)
+![](/images/uploads/kamus-bahasa-biak-indonesia-rev.jpg)
 
-**P﻿enulis:** Obed Wanma
+**Penyusun:** Obed Wanma
 
 **Harga:** Rp.75.000\
 \
