@@ -4,7 +4,7 @@ title: "Teknologi Pakan Lokal dan Reproduksi Ternak: Penguatan Peternakan
   Berbasis Masyarakat di Bangkalan"
 date: 2025-10-08T06:33:14.669Z
 ---
-![]()
+![](/images/uploads/isbn-teknologi-pakan-lokal-dan-reproduksi-ternak.jpg)
 
 **P﻿enulis:** Prof. Dr. Mirni Lamid, drh., MP; 
 Prof. Dr. Sunaryo Hadi Warsito, drh., MP; Dr. Nanik Hidayatik, drh; 
