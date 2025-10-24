@@ -4,7 +4,7 @@ title: PERAN LAZ DALAM MEMENUHI KESEHATAN MUSTAHIK
 date: 2025-10-24T04:22:57.862Z
 pdf: /images/uploads/ebook-peran-laz-dalam-memenuhi-kesehatan-mustahik.pdf
 ---
-![](/images/uploads/peran-laz-dalam-memenuhi-kesehatan-mustahik.jpg)
+![](/images/uploads/screenshot-2025-10-24-112922.jpg)
 
 **P﻿enulis:**  Sri Herianingrum | Meri Indri Hapsari |
  R. Moh. Qudsi Fauzi | Ririn Tri Ratnasari | Hanif Fadhlillah |
