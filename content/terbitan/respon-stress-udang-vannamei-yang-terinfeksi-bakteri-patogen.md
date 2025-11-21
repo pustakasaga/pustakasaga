@@ -3,7 +3,7 @@ layout: post
 title: Respon Stress Udang Vannamei yang Terinfeksi Bakteri Patogen
 date: 2025-11-21T11:47:34.903Z
 ---
-![](/images/uploads/isbn-respon-stress-udang-vannamei-yang-terinfeksi-bakteri-patogen.jpg)
+![](/images/uploads/isbn-respon-stress-udang-vannamei-yang-terinfeksi-bakteri-patogenx.jpg)
 
 **P﻿enulis:** Lailatul Lutfiyah, S.Pi., M.Si. , Dr. Laksmi Sulmartiwi, S.Pi.,M.P., Prof. Dr. Gunanti Mahasri, Ir., M.Si., Dr. Ahmad Shofy Mubarak, S.Pi., M.Si. , Nina Nurmalia Dewi, S.Pi., M.Si. , Dwi Yuli Pujiastutik, S.Pi., M.P. , Dwitha Nirmala, S.Pi., M.Si.
 
