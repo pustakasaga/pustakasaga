@@ -5,7 +5,7 @@ date: 2025-11-25T09:58:14.205Z
 ---
 ![](/images/uploads/isbn-lembaga-informasi-di-era-disrupsi.jpg)
 
-**P﻿enulis:** PDr. Dyah Puspitasari Srirahayu, S.Kom., M.Hum, 
+**P﻿enulis:** Dr. Dyah Puspitasari Srirahayu, S.Kom., M.Hum, 
 Dr. Fitri Mutia, A.KS., M.Si., Esti Putri Anugrah, S.IIP., MA.,
  Prof. Dr. Dessy Harisanty, S.Sos., MA., 
 Endang Fitriyah Mannan, S.Sos., M.Hum., Ph.D., 
