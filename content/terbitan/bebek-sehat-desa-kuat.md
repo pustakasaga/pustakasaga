@@ -3,9 +3,13 @@ layout: post
 title: Bebek Sehat,  Desa Kuat
 date: 2026-01-01T14:09:26.496Z
 ---
-![]()
+![](/images/uploads/isbn-bebek-sehat-desa-kuat.jpg)
 
-**P﻿enulis:** Prof. Dr. Rr. Sri Pantja Madyawati, drh., M.Si, dkk.
+**P﻿enulis:** Prof.Dr. Sri Pantja Madyawati, Drh., M.Si., Yulianna Puspitasari, Drh., M.VSc., Ph.D.,
+Prof.Dr. Jola Rahmahani, Drh., M.Kes., Prof.Dr. Widya Paramita Lokapirnasari, Drh., M.P.,
+Prof. Sri Agus Sudjarwo, Drh., Ph.D., Prof.Dr. Bambang Sektiari Lukiswanto, Drh., DEA,
+Dr. Emy Koestanti Sabdoningrum, Drh., M.Kes., Dr. Rimayanti, Drh., M.Kes.,
+Dr. Wiwiek Tyasningsih, Drh., M.Kes.
 
 **H﻿arga:** Rp. 70.000\
 \
