@@ -5,7 +5,7 @@ date: 2026-01-01T13:59:58.059Z
 ---
 ![](/images/uploads/isbn-mengenal-cerita-panji-memahami-dongeng.jpg)
 
-**P﻿enulis:** Astriana Putri, S.Pd.\
+**P﻿enulis:** Astriana Putri, S.Pd.,\
 Putri Malinda Nurul Faizah, S.Pd. 
 
 **H﻿arga:** Rp. 70.000\
