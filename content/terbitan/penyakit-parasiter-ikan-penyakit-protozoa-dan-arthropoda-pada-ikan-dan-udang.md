@@ -5,12 +5,12 @@ date: 2026-01-01T14:05:21.509Z
 ---
 ![](/images/uploads/isbn-penyakit-parasiter-ikan.jpg)
 
-**P﻿enulis:** Prof. Dr. Ir. Gunanti Mahasri, M.Si.
-Prof. Dr. Hj. Sri Subekti, DEA., drh.
-Prof. Dr. Kismiyati, Ir., M.Si.
-Prof. Dr. Setiawan Kusdarto, M.Sc. drh.
-Putri Desi Wulan Sari, S.Pi., M.Si.
-Prof. Dr. Akhmad Taufiq Mukti, S.Pi., M.Si.
+**P﻿enulis:** Prof. Dr. Ir. Gunanti Mahasri, M.Si.,
+Prof. Dr. Hj. Sri Subekti, DEA., drh.,
+Prof. Dr. Kismiyati, Ir., M.Si.,
+Prof. Dr. Setiawan Kusdarto, M.Sc. drh.,
+Putri Desi Wulan Sari, S.Pi., M.Si.,
+Prof. Dr. Akhmad Taufiq Mukti, S.Pi., M.Si.,
 R. Muhammad Browijoyo Santanumurti, S.Pi., M.Sc.
 
 **H﻿arga:** Rp. 70.000\
