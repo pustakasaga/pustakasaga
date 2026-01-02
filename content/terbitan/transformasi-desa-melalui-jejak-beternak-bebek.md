@@ -3,9 +3,13 @@ layout: post
 title: TRANSFORMASI DESA  MELALUI JEJAK BETERNAK BEBEK
 date: 2026-01-01T14:12:30.693Z
 ---
-![]()
+![](/images/uploads/isbn-transformasi-desa-melalui-jejak-beternak-bebek.jpg)
 
-**P﻿enulis:** Prof. Dr. Widjiati, drh., M.Si., PAVet (K), dkk.
+**P﻿enulis:** Prof. Dr. Widjiati, drh., M.Si., PAVet (K), Prof. Dr. Hani Plumeriastuti, drh., M.Kes, 
+Prof. Dr. Iwan Sahrial Hamid, drh., M.Si, Prof. Dr. Mustofa Helmi Effendi, drh., DTAPH, 
+Prof. Dr. Epy Muhammad Luqman, drh., M.Si., PAVet.(K), Prof. Dr. Sunaryo Hadi Warsito, drh., MP., 
+Dr. Hartanto Mulyo Rahardjo, drh., M.Si, Tantri Dyah Whidi Palupi drh., M.Si., 
+Viski Fitri Hendrawan, drh., M.Vet.
 
 **H﻿arga:** Rp. 70.000\
 \
