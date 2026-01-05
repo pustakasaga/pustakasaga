@@ -3,14 +3,12 @@ layout: post
 title: "Vitrifikasi dan Thawing : Strategi untuk  Mempertahankan Kualitas Embrio"
 date: 2026-01-01T14:08:40.431Z
 ---
-![](/images/uploads/isbn-vitrifikasi-dan-thawing.jpg)
+![](/images/uploads/isbn-vitrifikasi-dan-thawinggg.jpg)
 
 **P﻿enulis:** Prof. Dr. Widjiati, drh., M.Si., PAVet (K), 
 dr. Maitra D. Wen, Sp. And, SubSp. FER., MClinEmbryol., Dr. Zakiyatul Faizah, dr., M. Kes, 
 Dr. Rini., Widyastuti, drh., M.Si, Suryo Kuncorojakti, drh., M.Vet. Ph.D., AHVet.(K)., 
 Dr. Lita Rakhma Yustinasari, drh., M.Vet. AHVet.(K), Dr. Ratna Damayanti, drh., M.Kes.,
- Arindita Niatazya Novianti drh., M.Si., Prof. Dr. Hani Plumeriastuti, drh., M.Kes., 
-Tantri Dyah Whidi Palupi, drh., M.Si.
 
 **H﻿arga:** Rp. 70.000\
 \
