@@ -3,15 +3,11 @@ layout: post
 title: BUDIDAYA TERNAK BEBEK  SEBAGAI PENGUATAN EKONOMI DESA
 date: 2026-01-01T14:11:12.205Z
 ---
-![](/images/uploads/isbn-budidaya-ternak-bebek-sebagai-penguatan-ekonomi-desa.jpg)
+![](/images/uploads/isbn-budidaya-ternak-bebek-sebagai-penguatan-ekonomi.jpg)
 
 **P﻿enulis:** Prof. Dr. Wiwik Misaco Yuniarti, drh., M.Kes., Prof. Dr. Moh. Anam Al Arif, drh., MP,
 Prof. Dr. Lilik Maslachah, drh., M.Kes.,Prof. Muchammad Yunus, drh., M.Si., Ph.D.,
-Dr. Rochmah Kurnijasanti, drh., M.Si,Dr. Boedi Setiawan, drh., M.P.,
-Prof. Dr., Ir. Sri Hidanah, M.S.,Dr. Agus Sunarso, drh., M.Sc.,
-Dr. Djoko Legowo, drh., M.Kes.,Dr. Annise Proboningrat, drh., M.Si.,
-Dr. Mufasirin, drh., M.Si.,Dian Ayu Permatasari, drh., M.Vet.,
-Intan Firdha Olien Noor Al Ichsan, drh.
+Dr. Rochmah Kurnijasanti, drh., M.Si,Dr. Boedi Setiawan, drh., M.P.
 
 **H﻿arga:** Rp. 70.000\
 \
