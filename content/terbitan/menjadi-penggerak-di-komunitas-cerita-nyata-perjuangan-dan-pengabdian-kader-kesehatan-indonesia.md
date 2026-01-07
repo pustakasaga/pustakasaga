@@ -4,11 +4,11 @@ title: MENJADI PENGGERAK DI KOMUNITAS (Cerita Nyata Perjuangan dan Pengabdian
   Kader Kesehatan Indonesia)
 date: 2026-01-01T14:03:13.613Z
 ---
-![](/images/uploads/isbn-menjadi-penggerak-di-komunitas.jpg)
+![](/images/uploads/isbn-menjadi-penggerak-di-komunitassss.jpg)
 
 **P﻿enulis:** Prof. Ferry Efendi, S.Kep., Ns., M.Sc., Ph.D. |  Dr. Retno Indarwati, S.Kep., Ns., M.Kep | 
 Dr. Eka Mishbahatul Mar’ah Has, S.Kep., Ns., M.Kep. | Herdina Mariyanti, S.Kep., Ns., M.Kep., Ph.D. | Rifky Octavia Pradipta, S.Kep., Ns., M.Kep. | Dr. Makhfudli, S.Kep., Ns., M.Ked.Trop. |
- Prof. Chong Mei Chan | Dr. Mundakir | Icha Khaerunnisa, S.Kep., Ns. | Sely Novita, S.Keb., Bdn. | Visky Afrina, S.Keb., Bd. 
+ Prof. Chong Mei Chan 
 
 **H﻿arga:** Rp. 70.000\
 \
