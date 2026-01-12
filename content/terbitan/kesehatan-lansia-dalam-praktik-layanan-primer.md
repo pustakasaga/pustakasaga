@@ -5,7 +5,7 @@ date: 2026-01-12T09:50:39.257Z
 ---
 ![](/images/uploads/isbn-kesehatan-lansia-dalam-praktik-layanan-primer.jpg)
 
-**P﻿enulis:** Dr. Lilik Djuari, dr., Mkes.
+**P﻿enulis:** Dr. Lilik Djuari, dr., MKes.
 
 **H﻿arga:** Rp. 70.000\
 \
