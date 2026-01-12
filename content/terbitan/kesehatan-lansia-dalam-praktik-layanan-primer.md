@@ -3,7 +3,7 @@ layout: post
 title: Kesehatan Lansia dalam  Praktik Layanan Primer
 date: 2026-01-12T09:50:39.257Z
 ---
-![](/images/uploads/isbn-kesehatan-lansia-dalam-praktik-layanan-primer.jpg)
+![](/images/uploads/isbn-kesehatan-lansia-dalam-praktik-layanan-primerrrrrrr.jpg)
 
 **P﻿enulis:** Dr. Lilik Djuari, dr., MKes.
 
