@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Potensi Farmakologis  Buah Naga Merah:  Dari Kandungan GiziHingga
+title: "Potensi Farmakologis  Buah Naga Merah:  Dari Kandungan Gizi Hingga
   Aktivitas Antimikroba"
 date: 2026-01-15T11:29:38.102Z
 ---
-![](/images/uploads/isbn-potensi-farmakologis-buah-naga-merah.jpg)
+![](/images/uploads/isbn-potensi-farmakologis-buah-naga-merahssss.jpg)
 
 **P﻿enulis:** Venny Kurnia Andika, S.Si., M.Biotech., 
 apt. Sirilus Deodatus Sawu,S.Farm., M.Farm., 
