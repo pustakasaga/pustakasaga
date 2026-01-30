@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Psikologi  untuk Perubahan  yang Berdampak
+title: Psikologi untuk Perubahan yang Berdampak
 date: 2026-01-30T01:38:24.958Z
 ---
 ![](/images/uploads/isbn-psikologi-untuk-perubahan-yang-berdampakllll.jpg)
 
 **P﻿enulis:** Prof. Dr. Seger Handoyo, Psikolog, 
 Prof. Endang Retno Surjaningrum, M.AppPsych., Ph.D., Psikolog, 
-Dr. Nur Ainy Fardana Nawangsari, M.Si., Psikolog
+Dr. Nur Ainy Fardana Nawangsari, M.Si., Psikolog.
 
 **H﻿arga:** Rp. 70.000\
 \
