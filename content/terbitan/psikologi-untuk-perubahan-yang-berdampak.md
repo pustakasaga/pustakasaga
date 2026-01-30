@@ -3,7 +3,7 @@ layout: post
 title: Psikologi  untuk Perubahan  yang Berdampak
 date: 2026-01-30T01:38:24.958Z
 ---
-![](/images/uploads/isbn-psikologi-untuk-perubahan-yang-berdampak.jpg)
+![](/images/uploads/isbn-psikologi-untuk-perubahan-yang-berdampakllll.jpg)
 
 **P﻿enulis:** Prof. Dr. Seger Handoyo, Psikolog, 
 Prof. Endang Retno Surjaningrum, M.AppPsych., Ph.D., Psikolog, 
