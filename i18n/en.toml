@@ -1,0 +1,34 @@
+[home_services]
+    other = "Services"
+
+[home_recentworks]
+    other = "Recent works"
+
+[home_clients]
+    other = "Clients"
+
+[404_title]
+    other = "404"
+[404_description]
+    other = "Oops! This page doesn't exist!"
+
+[footer_contact_title]
+    other = "Kontak"
+
+[footer_followme_title]
+    other = "Ikuti"
+
+[footer_text_title]
+    other = "Penerbit"
+[footer_text1]
+    other = "PUSTAKA SAGA"
+[footer_text2]
+    other = "PT Pustaka Saga Jawadwipa"
+
+[footer_form_title]
+    other = "Tentang Kami"
+[footer_form_title2]
+    other = "PT Pustaka Saga Jawadwipa biasa dikenal dengan Pustaka Saga adalah penerbit yang berdomisili di Kota pahlawan Surabaya."
+
+[recent_works_click_text]
+    other = "See details"

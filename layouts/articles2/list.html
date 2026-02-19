@@ -1,0 +1,36 @@
+{{ define "main" }}
+<main id="main">
+
+	<div class="container">
+		<div class="row topspace">
+
+  			<aside class="col-sm-4 sidebar sidebar-right">
+  
+  				<div class="nav text-right nav-side">
+  					<li class="active"><a href="#">Articles</a></li>
+  				</div>
+  
+  			</aside>
+
+			<div class="col-sm-8 maincontent">
+        {{ range .Paginator.Pages }}
+				<article class="post">
+					<header class="entry-header">
+						<h1 class="entry-title">
+						  <a href="{{ .Permalink }}" rel="bookmark">&#x25CF; {{ .Title }}</a>
+						</h1>
+					</header>
+				</article>
+        {{ end }}
+			</div>
+		</div>
+
+		<center class="">
+			<ul class="pagination">
+        {{ template "_internal/pagination.html" . }}
+			</ul>
+		</center>
+	</div>	<!-- /container -->
+
+</main>
+{{ end }}
