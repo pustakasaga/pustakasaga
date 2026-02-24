@@ -3,7 +3,7 @@ layout: post
 title: "Sunscreen Spray Gel Arthrospira sp.: Formulasi dan Aktivitas Antioksidan"
 date: 2026-02-13T12:06:59.618Z
 ---
-![](/images/uploads/isbn-sunscreen-spray-gel-arthrospira-spvvv.jpg)
+![](/images/uploads/isbn-sunscreen-spray-gel-arthrospira-spvvvllllll.jpg)
 
 **P﻿enulis:** Eka Saputra, S.Pi., M.Si., Dr. Eng. Patmawati, S.Pi., M.Si., 
 Vanesha Marwa Adelia, S.Pi., Prof., Dr. A. Shofy Mubarak, S.Pi., M.Si., 
