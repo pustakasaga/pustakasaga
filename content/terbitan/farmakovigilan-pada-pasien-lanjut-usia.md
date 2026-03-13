@@ -5,7 +5,7 @@ date: 2026-03-13T09:23:36.982Z
 ---
 ![](/images/uploads/isbn-farmakovigilan-pada-pasien-lanjut-usia.jpg)
 
-**P﻿enulis:** Dapt. Dewi Susanti Atmaja, S.Farm., M.Farm.Klin, Prof. Dr. apt. Yulistiani, Dra., M.Si, Prof. Dr. apt. Suharjono, Drs., MS, apt. Elida Zairina, S.Si., M.Ph., Ph.D, Prof. Dr. apt. Budi Suprapti, Dra., M.Si
+**P﻿enulis:** apt. Dewi Susanti Atmaja, S.Farm., M.Farm.Klin, Prof. Dr. apt. Yulistiani, Dra., M.Si, Prof. Dr. apt. Suharjono, Drs., MS, apt. Elida Zairina, S.Si., M.Ph., Ph.D, Prof. Dr. apt. Budi Suprapti, Dra., M.Si
 
 **H﻿arga:** Rp. 70.000\
 \
