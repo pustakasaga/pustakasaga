@@ -6,10 +6,7 @@ date: 2026-03-13T09:38:10.852Z
 ---
 ![](/images/uploads/isbn-international-halal-science.jpg)
 
-**P﻿enulis:** Professor Dr. Ririn Tri Ratnasari, 
-Associate Professor Dr. Shaizatulaqma Kamalul Ariffin, 
-Pengiran Dr. Hajah Norkhairiah Pengiran Haji Hashim, 
-Dr. Mohamad Hafizi Abu Bakar
+**P﻿enulis:** Professor Dr. Ririn Tri Ratnasari
 
 **H﻿arga:** Rp. 70.000\
 \
