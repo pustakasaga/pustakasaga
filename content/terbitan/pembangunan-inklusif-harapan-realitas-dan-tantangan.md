@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pembangunan Inklusif: Harapan, realitas, dan Tantangan"
+title: "Pembangunan Inklusif: Harapan, Realitas, dan Tantangan"
 date: 2026-04-06T01:26:03.215Z
 ---
 ![](/images/uploads/isbn-pembangunan-inklusif.jpg)
