@@ -6,7 +6,7 @@ date: 2026-04-10T08:41:45.813Z
 ---
 ![](/images/uploads/isbn-remaja-sehat-holistik.jpg)
 
-**P﻿enulis:** Ners Maria Dyah Kurniasari, S.Kep., M.Si.Med., PhD, Ners Marsela Riska Raswandaru, S.Kep., M.Kep, Ners Ayu Panyuwa, S.Kep., M.Kep, Ners Rosiana Eva Rayanti, S.Kep., MSN, Rifatolistia Tampubolon, S.S.T.Keb., MH, Ners Catherine Natawirarindry, S. Kep., MSN, Ners Kristiani Desimina Tauho, MSN, Sp.Kep.M, David Nakka Gasong, M. Kes
+**P﻿enulis:** Ners Maria Dyah Kurniasari, S.Kep., M.Si.Med., PhD, Ners Marsela Riska Raswandaru, S.Kep., M.Kep, Ners Ayu Afriani Panyuwa S.Kep.,M.Kep, Ners Rosiana Eva Rayanti, S.Kep., MSN, Rifatolistia Tampubolon, S.S.T.Keb., MH, Ners Catherine Natawirarindry, S. Kep., MSN, Ners Kristiani Desimina Tauho, MSN, Sp.Kep.M, David Nakka Gasong, M. Kes, Ners Surtania, M.Kep
 
 **H﻿arga:** Rp. 70.000\
 \
