@@ -4,7 +4,7 @@ title: "WISATA KESEHATAN:   Tren Global, Dinamika Pasar,  dan Pertumbuhan Wisata
   Kesehatan Dunia"
 date: 2026-02-12T07:45:05.447Z
 ---
-![]()
+![](/images/uploads/screenshot-2026-04-13-171138.jpg)
 
 **P﻿enulis:** Destanul Aulia, SKM, MBA, MEc, Ph.D
 
