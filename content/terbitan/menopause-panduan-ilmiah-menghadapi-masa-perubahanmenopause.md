@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Menopause: Panduan Ilmiah Menghadapi Masa PerubahanMenopause"
+title: "Menopause: Panduan Ilmiah Menghadapi Masa Perubahan Menopause"
 date: 2026-04-17T11:27:45.714Z
 ---
 ![](/images/uploads/isbn-menopause.jpg)
