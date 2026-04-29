@@ -3,7 +3,7 @@ layout: post
 title: "Menopause: Panduan Ilmiah Menghadapi Masa Perubahan Menopause"
 date: 2026-04-17T11:27:45.714Z
 ---
-![](/images/uploads/isbn-menopause.jpg)
+![](/images/uploads/isbn-menopausesss.jpg)
 
 **P﻿enulis:** Dyah Ayu Septika Wijaya, S.Tr.Keb., M.Keb; 
 Bdn. Ani Khoirinda,M.Keb; 
