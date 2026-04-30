@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Fundamentals of the Pharmaceutical Chemistry Laboratory:
-  Safety,Equipment, and Best Practices for Beginners"
+title: "Fundamentals of the Pharmaceutical Chemistry Laboratory: Safety,
+  Equipment, and Best Practices for Beginners"
 date: 2026-04-30T06:39:22.505Z
 ---
-![](/images/uploads/isbn-fundamentals-of-the-pharmaceutical-chemistry-laboratory.jpg)
+![](/images/uploads/isbn-fundamentals-of-the-pharmaceutical.jpg)
 
 **P﻿enulis:** Ersanda Nurma Praditapuspa, 
 Pramudita Riwanti, Rina Andayani, 
-SukoHardjono, Astrid Kusuma Putri, Mahmiah
+Suko Hardjono, Astrid Kusuma Putri, Mahmiah
 
 **H﻿arga:** Rp. 70.000\
 \
