@@ -4,7 +4,7 @@ title: "MANAJEMEN RISIKO RUMAH SAKIT : Strategi Identifikasi, Pengendalian, dan
   Mitigasi Risiko untuk Keselamatan Pasien dan Mutu Pelayanan"
 date: 2026-05-04T08:51:21.773Z
 ---
-![](/images/uploads/isbn-manajemen-risiko-rumah-sakit-.jpg)
+![](/images/uploads/isbn-manajemen-risiko-rumah-sakit.jpg)
 
 **P﻿enulis:** Yaslis Ilyas
 
