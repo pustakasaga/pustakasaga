@@ -3,9 +3,9 @@ layout: post
 title: Essential Mathematics for Psychologists
 date: 2026-06-12T00:43:44.491Z
 ---
-![](/images/uploads/isbn-essential-mathematics-for-psychologists.jpg)
+![](/images/uploads/isbn-essential-mathematics-for-psychologistssss.jpg)
 
-**P﻿enulis:** Prof. Dr. Cholichul Hadi, Drs., M.Si., Psikolog
+**P﻿enulis:** Prof. Dr. Cholichul Hadi, Drs., M.Si., Psikolog, Prof. Dr. Mohd Nazri Bin Abdul Rahman
 
 **H﻿arga:** Rp. 70.000\
 \
