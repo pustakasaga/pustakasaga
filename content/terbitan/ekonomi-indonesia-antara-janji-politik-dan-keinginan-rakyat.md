@@ -5,7 +5,7 @@ date: 2026-06-17T13:30:47.968Z
 ---
 ![](/images/uploads/isbn-ekonomi-indonesia.jpg)
 
-**P﻿enulis:** Edo Segara Gustanto, Anton Priyo Nugroho
+**P﻿enulis:** Edo Segara Gustanto, Anton Priyo Nugroho.
 
 **H﻿arga:** Rp. 70.000\
 \
