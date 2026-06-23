@@ -7,7 +7,7 @@ date: 2026-06-10T21:02:19.070Z
 
 **P﻿enulis:** Prof. Dr. Amir Mu’allim, MIS.,
 Muhammad Iqbal, S.E.I., M.S.I.,
-Maulidi Dhuha Yaum M, S.H.
+Maulidi Dhuha Yaum M., S.H.
 
 **H﻿arga:** Rp. 70.000\
 \
