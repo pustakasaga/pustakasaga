@@ -5,8 +5,9 @@ date: 2026-07-01T07:08:32.975Z
 ---
 ![](/images/uploads/isbn-pengering-padi-rotary-dryer.jpg)
 
-**P﻿enulis:** Harnyoto, S.T., M.M. | Ardiyanto Darmanto, S.T., M.T. |
- Lalu Saefullah, S.Si., M.Sc, M.Si. | Lukman Prasetyo, S.Tr.T. | Nasrikin, S.Tr.T.
+**P﻿enulis:** Subagyo, S.Pd., M.M. | Suko Wiyanto, S.T., M.Tr.T. | 
+Dedi Nurdiansyah, S.T., M.M. | Erda Dian Prianto, S.Tr.T. | 
+Achmad Saiful Rohman, S.Tr.T. | Agung Wahyu Prasetyo, S.Tr.T. 
 
 **H﻿arga:** Rp. 70.000\
 \
