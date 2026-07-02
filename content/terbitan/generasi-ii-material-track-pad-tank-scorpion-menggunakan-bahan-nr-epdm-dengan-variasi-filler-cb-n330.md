@@ -6,9 +6,9 @@ date: 2026-07-01T06:51:58.712Z
 ---
 ![](/images/uploads/isbn-generasi-ii-material-track-pad-tank-scorpion.jpg)
 
-**P﻿enulis:** Farid Hendro Wibowo, S.T., M.T., |
-Akhmad Zailani Riski Siregar, S.Tr.T. | Serka Riyan Tansatrisna, S.Tr.T. |
- Serka Irvin Kudligagal, S.Tr.T.
+**P﻿enulis:** Kapten Arm Farid Hendro Wibowo, S.T., M.T. |
+ Serka Akhmad Zailani Riski Siregar, S.Tr.T. |
+Serka Riyan Tansatrisna, S.Tr.T. | Serka Irvin Kudligagal, S.Tr.T.
 
 **H﻿arga:** Rp. 70.000\
 \
