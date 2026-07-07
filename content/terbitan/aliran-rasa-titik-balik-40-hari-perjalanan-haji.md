@@ -5,7 +5,7 @@ date: 2026-07-06T23:28:57.179Z
 ---
 ![](/images/uploads/isbn-aliran-rasa-titik-balik-40-hari-perjalanan-haji.jpg)
 
-**P﻿enulis:** Anna Maydawati. 
+**P﻿enulis:** Anna Mayda
 
 **H﻿arga:** Rp. 70.000
 
