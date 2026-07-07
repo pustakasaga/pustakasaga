@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Konsep dan Praktik Penyusunan Rencana Strategis (Renstra) Badan Usaha
-  Milik Milik Desa (BUM Desa)
+  Milik Desa (BUM Desa)
 date: 2026-06-22T02:22:02.411Z
 ---
 ![](/images/uploads/isbn-konsep-dan-praktik-penyusunan-rencana-strategis-renstra-badan-usaha-milik-milik-desa-bum-desa-.jpg)
