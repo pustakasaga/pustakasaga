@@ -7,7 +7,7 @@ date: 2026-07-09T04:48:58.759Z
 
 **P﻿enulis:** Prof. Iman Harymawan, Ph.D., Prof. Dr. Ardianto, SE., M.Si., Ak.,CA., Dr. Wiwik Supratiwi, Dra., MBA., Ak., Fajar Kristanto Gautama Putra, S.A., M.A., Prima Ayu Novita J, SE., M.Ak, Dr. Dedy Iswanto, ST, MM, 
 Dr Anak Agung Gde Satia Utama, SE., M.Ak, CA,
- Dr Dian Novita
+ Dr Dian Novita.
 
 **H﻿arga:** Rp. 70.000\
 \
