@@ -9,7 +9,7 @@ date: 2026-07-09T21:01:57.127Z
 **P﻿enulis:** :Dr. Hanik Badriyah Hidayati, dr., Sp.N, F-MIN, Subsp.NN, CIPP, COMSK, AIFO-K, 
 Sheila Maryam Gautama, dr., Sp.KJ, 
 Dr. Damayanti, dr.,Sp.D.V.E., SubSp.DAI, FINSDV, FAADV, 
-Sri Purwanti,S.Kep,.Ns.,M.Kep
+Sri Purwanti,S.Kep,.Ns.,M.Kep.
 
 **H﻿arga:** Rp. 70.000\
 \
