@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decoding Wildlife: Sains di Balik Perilaku dan KomunikasiHewan"
+title: "Decoding Wildlife: Sains di Balik Perilaku dan Komunikasi Hewan"
 date: 2026-07-21T23:02:36.012Z
 ---
 ![](/images/uploads/isbn-decoding-wildlife.jpg)
