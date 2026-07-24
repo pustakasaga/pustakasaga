@@ -3,12 +3,12 @@ layout: post
 title: "Rooted Cosmopolitanism: Negosiasi Identitas Lokal dalam Dinamika Global"
 date: 2026-07-24T01:51:26.078Z
 ---
-![](/images/uploads/rooted-cosmopolitanism.jpg)
+![](/images/uploads/isbn-rooted-cosmopolitanism.jpg)
 
 **P﻿enulis:** Wirdhatull Muthmainnah Alkamil, 
 Nur Yaqin Zaheen Binti Mohd Razali,
  Chandha Desi Cania Fajar Milaningtyas, 
-Zamharirah Sang PutriRadhwa Ananda, Sekar Putri Maharani, 
+Zamharirah Sang Putri Radhwa Ananda, Sekar Putri Maharani, 
 Sayyidah Ilman Nisa
 
 **H﻿arga:** Rp. 70.000\
