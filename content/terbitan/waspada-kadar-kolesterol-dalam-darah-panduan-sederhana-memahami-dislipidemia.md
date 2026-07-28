@@ -5,7 +5,7 @@ date: 2026-07-28T23:07:13.597Z
 ---
 ![](/images/uploads/isbn-waspada-kadar-kolesterol-dalam-darah-.jpg)
 
-**P﻿enulis:** Lina Lukitasari, Siti Khaerunnisa, Reny I’tishom, Lilik Herawati,                               Ema Qurnianingsih, Langgeng Agung Waskito, Fithriyah Cholifatul Ummah, 
+**P﻿enulis:** Lina Lukitasari, Siti Khaerunnisa, Reny I’tishom, Lilik Herawati,                               Ema Qurnianingsih, Langgeng Agung Waskito, Fithriyah Cholifatul Ummah 
 
 **H﻿arga:** Rp. 70.000\
 \
