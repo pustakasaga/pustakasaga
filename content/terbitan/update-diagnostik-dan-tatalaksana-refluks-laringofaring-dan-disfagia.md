@@ -10,7 +10,7 @@ Putu Wijaya Kandhi, dr., Sp.T.H.T.B.K.L., Subsp. BE (K),
 Dr. Rizka Fathoni Perdana, dr., Sp.T.H.T.B.K.L., Subsp. BE (K), 
 Dr. Fardah Akil, dr., Sp.PD, K-GEH, FINASIM,
  Prof. Sri Herawati, dr., Sp.T.H.T.B.K.L., Subsp. BE (K), 
-Dr. Puspa Zuleika, dr., Sp.T.H.T.B.K.L., Subsp. BE (K)., M.Kes, FICS, Aliandri, dr., Sp.T.H.T.B.K.L., Subsp. BE (K).
+Dr. Puspa Zuleika, dr., Sp.T.H.T.B.K.L., Subsp. BE (K)., M.Kes, FICS, Aliandri, dr., Sp.T.H.T.B.K.L., Subsp. BE (K)
 
 **H﻿arga:** Rp. 70.000\
 \
