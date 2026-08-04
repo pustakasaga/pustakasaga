@@ -7,11 +7,7 @@ date: 2026-08-04T01:51:41.145Z
 
 **P﻿enulis:** Prof. Dr. Thomas Santoso, M.Si.
 
-
-
-**H﻿arga:** Rp. 70.000\
-\
-<!--StartFragment-->
+**H﻿arga:** Rp. 70.000
 
 Perguruan tinggi tidak hanya dituntut menghasilkan lulusan yang unggul secara akademik, tetapi juga individu yang tangguh dalam menghadapi tantangan, perubahan, dan ketidakpastian. Buku **Educational Resilience di Perguruan Tinggi** mengupas konsep resiliensi pendidikan sebagai fondasi penting dalam membangun mahasiswa yang mampu beradaptasi, bangkit dari kegagalan, menjaga kesehatan mental, serta terus berkembang menjadi pribadi yang berkarakter, inovatif, dan berdaya saing. Dengan pendekatan yang sistematis, buku ini menghadirkan pemahaman komprehensif mengenai teori, prinsip, dan faktor-faktor yang membentuk resiliensi di lingkungan pendidikan tinggi.
 
