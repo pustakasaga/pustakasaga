@@ -6,9 +6,9 @@ date: 2026-08-11T15:03:40.423Z
 ---
 ![](/images/uploads/menambal-dilema-bawang-putih.jpg)
 
-**P﻿enulis:** Dr. Gracia Angelina Hendarti, drh., M.Si., PAVet(K) | Dr. Kuncoro Puguh Santoso, drh., M.Kes |
-Dr. Dadik Rahardjo, drh., M.Kes | Dr. Rochman Kurnijasanti, drh., M.Si |
-Dr. Eka Pramytha Hestianah, drh., M.Kes., AHVet(K) | drh. Septyana Eka Rahmawati, M.Imun
+**P﻿enulis:** Gina Aliya Sopha, Yusuf,  Bahtiar,\
+Muhammad Prama Yufdy, Tien Wahyuni, Afrizal Malik, 
+ Amiruddin Syam,  Baswarsiati
 
 **H﻿arga:** Rp. 70.000\
 \
