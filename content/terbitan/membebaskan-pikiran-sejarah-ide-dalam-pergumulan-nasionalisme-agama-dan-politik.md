@@ -6,7 +6,7 @@ date: 2026-08-11T13:44:05.585Z
 ---
 ![](/images/uploads/isbn-membebaskan-pikiran.jpg)
 
-**P﻿enulis:** Pradipto Niwandhono, SS., M.Hum, PhD
+**P﻿enulis:** Pradipto Niwandhono
 
 **H﻿arga:** Rp. 70.000\
 \
