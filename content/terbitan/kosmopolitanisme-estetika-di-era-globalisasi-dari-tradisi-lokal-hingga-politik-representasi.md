@@ -3,6 +3,7 @@ layout: post
 title: "Kosmopolitanisme Estetika di Era Globalisasi: Dari Tradisi Lokal hingga
   Politik Representasi"
 date: 2026-07-23T23:44:18.131Z
+pdf: /images/uploads/ebook-kosmopolitanisme.pdf
 ---
 ![](/images/uploads/kosmopolitanisme-estetika-di-era-globalisasi.jpg)
 
