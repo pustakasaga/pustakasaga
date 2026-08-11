@@ -6,7 +6,7 @@ date: 2026-08-11T15:03:40.423Z
 ---
 ![](/images/uploads/menambal-dilema-bawang-putih.jpg)
 
-**P﻿enulis:** Gina Aliya Sopha, Yusuf,  Bahtiar,\
+**P﻿enulis:** Yusuf,  Gina Aliya Sopha, Bahtiar,\
 Muhammad Prama Yufdy, Tien Wahyuni, Afrizal Malik, 
  Amiruddin Syam,  Baswarsiati
 
