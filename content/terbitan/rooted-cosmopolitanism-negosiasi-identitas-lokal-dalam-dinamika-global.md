@@ -2,6 +2,7 @@
 layout: post
 title: "Rooted Cosmopolitanism: Negosiasi Identitas Lokal dalam Dinamika Global"
 date: 2026-07-24T01:51:26.078Z
+pdf: /images/uploads/ebook-rooted-cosmopolitan.pdf
 ---
 ![](/images/uploads/rooted-cosmopolitanism.jpg)
 
