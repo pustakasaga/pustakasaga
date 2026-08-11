@@ -2,6 +2,7 @@
 layout: post
 title: Feminisme Kosmopolitan di Era Interkoneksi Global
 date: 2026-07-23T23:04:30.178Z
+pdf: /images/uploads/ebook-feminisme-kosmopolitan.pdf
 ---
 ![](/images/uploads/feminisme-kosmopolitan-di-era-interkoneksi-global.jpg)
 
