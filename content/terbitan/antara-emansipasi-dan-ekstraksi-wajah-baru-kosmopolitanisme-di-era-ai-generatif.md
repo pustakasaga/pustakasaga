@@ -3,6 +3,7 @@ layout: post
 title: "Antara Emansipasi dan Ekstraksi: Wajah Baru Kosmopolitanisme di Era AI
   Generatif"
 date: 2026-07-24T01:58:11.489Z
+pdf: /images/uploads/ebook-antara-emansipasi.pdf
 ---
 ![](/images/uploads/antara-emansipasi-dan-ekstraksi.jpg)
 
