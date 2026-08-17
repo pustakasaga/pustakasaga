@@ -5,7 +5,7 @@ date: 2026-08-16T23:30:01.661Z
 ---
 ![](/images/uploads/rekonstruksi-pemikiran-eco-teologi-islam.jpg)
 
-﻿**enulis:** Christy W. Erwinata
+﻿**Penulis:** Christy W. Erwinata
 
 **H﻿arga:** Rp. 70.000\
 \
