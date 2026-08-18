@@ -5,7 +5,7 @@ date: 2026-08-17T07:08:09.228Z
 ---
 ![](/images/uploads/ensiklopedia-cagar-budaya-cirebon.jpg)
 
-**P﻿enulis:** DDarto Wahidin,
+**P﻿enulis:** Darto Wahidin,
 Repka Erdian 
 
 **H﻿arga:** Rp. 70.000\
