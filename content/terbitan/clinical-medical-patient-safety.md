@@ -5,10 +5,10 @@ date: 2026-08-19T16:47:21.799Z
 ---
 ![](/images/uploads/isbn-clinical-medical-patient-safety.jpg)
 
-**P﻿enulis:** Dr.dr. Niko Azhari Hidayat ,SpBTKV.,SubspVE(K)., FIATCVS.; 
-dr. Astya Kirana Parawitha, MMRS., CRP.; dr. Ulfatun Nisa, M.Biomed.; 
-dr. Alvin Saputra.; Syamsul Qomar, S.Kom.; 
-Dr. Muhammad Ardian C.L., dr., SpOG. Subsp.Obginsos, M.Kes.
+**P﻿enulis:** Dr. dr. Niko Azhari Hidayat ,SpBTKV.,SubspVE(K)., FIATCVS; 
+Prof. Dr. dr. Budi Santoso, Sp.OG, Subsp. F.E.R.; 
+Dr. dr. Made Agus Hendrayana, S.Ked., M.Ked.; 
+Prof. dr. I Made Ady Wirawan, S.Ked, MPH, Sp.KKLP, Ph.D.
 
 **H﻿arga:** Rp. 70.000\
 \
