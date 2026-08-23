@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(Vol 3 SULUH DIPANEGARA: Layanan Pemeriksaan Parasit pada Ikan Kerapu
+title: "(Vol 4 SULUH DIPANEGARA: Layanan Pemeriksaan Parasit pada Ikan Kerapu
   yang Dibudidayakan di Brondong, Lamongan)"
 pdf: /images/uploads/1.-vol-4-layanan-pemeriksaan-parasit-pada-ikan-kerapu-yang-dibudidayakan-di-brondong-lamongan.pdf
 date: 2026-08-23T02:43:40.519Z
