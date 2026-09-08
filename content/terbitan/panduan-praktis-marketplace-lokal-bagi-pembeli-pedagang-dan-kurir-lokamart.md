@@ -6,9 +6,9 @@ date: 2026-08-18T02:31:38.674Z
 ---
 ![](/images/uploads/panduan-praktis-marketplace-lokal-bagi-pembeli-pedagang-dan-kurir.jpg)
 
-**P﻿enulis:** Tining Haryanti, Muhamad Amirul Haq, Dhiani Tresna Absari, 
-Mishal Eman, Maulida Improatus Sholihah, 
-Vichras Mazcheranou Hafizh, Alwan Fayyadh
+**P﻿enulis:** Dr. Tining Haryanti, S.Kom., M.M., M.Kom,
+Muhamad Amirul Haq, S.T., M.Sc., Ph.D., 
+Dr. Dhiani Tresna Absari, S.T., M.Kom.
 
 **H﻿arga:** Rp. 70.000\
 \
