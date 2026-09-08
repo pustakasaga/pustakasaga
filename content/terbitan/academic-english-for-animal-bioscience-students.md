@@ -5,7 +5,8 @@ date: 2026-09-08T11:57:37.967Z
 ---
 ![](/images/uploads/isbn-academic-english-for-animal-bioscience-students.jpg)
 
-**P﻿enulis:** Achmad Muzakky Dityana, S.Pt, M.Pt
+**P﻿enulis:** Heni Natalia Aritonang, S.Pt., M.Pt.,
+Achmad Muzakky Dityana, S.Pt, M.Pt
 
 **H﻿arga:** Rp. 70.000\
 \
