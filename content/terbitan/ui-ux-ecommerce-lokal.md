@@ -5,9 +5,9 @@ date: 2026-08-18T02:22:59.118Z
 ---
 ![](/images/uploads/ui-ux-ecommerce-lokal.jpg)
 
-**P﻿enulis:** Tining Haryanti, Muhamad Amirul Haq, Dhiani Tresna Absari, 
-Mishal Eman, Maulida Improatus Sholihah, 
-Vichras Mazcheranou Hafizh, Alwan Fayyadh
+**P﻿enulis:** Dr. Tining Haryanti, S.Kom., M.M., M.Kom,
+Muhamad Amirul Haq, S.T., M.Sc., Ph.D. ,
+Dr. Dhiani Tresna Absari, S.T., M.Kom.
 
 **H﻿arga:** Rp. 70.000\
 \
