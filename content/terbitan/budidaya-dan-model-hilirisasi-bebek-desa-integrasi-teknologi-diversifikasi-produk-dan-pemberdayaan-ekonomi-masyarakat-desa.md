@@ -9,8 +9,8 @@ date: 2026-09-08T23:14:16.155Z
 **P﻿enulis:** Prof. Dr. Widjiati, drh., M.Si., PAVet.(K),
 Prof. Dr. Iwan Sahrial Hamid, drh., M.Si.,
 Prof. Dr. Rr. Sri Pantja Madyawati, drh., M.Si.,
-Dr. Ninik Darsini, dr., M.Biomed.drh.,
-Viski Fitri Hendrawan, M.Vet.
+Dr. Ninik Darsini, dr., M.Biomed.,\
+drh.Viski Fitri Hendrawan, M.Vet.
 
 **H﻿arga:** Rp. 70.000\
 \
