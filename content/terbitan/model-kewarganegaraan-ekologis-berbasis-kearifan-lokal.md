@@ -6,7 +6,7 @@ date: 2026-09-13T11:43:00.395Z
 ![](/images/uploads/isbn-model-kewarganegaraan-ekologis-berbasis-kearifan-lokal-cov-copy.jpg)
 
 **P﻿enulis:** Oksiana Jatiningsih, Listyaningsih, Rianda Usmi, 
-Najwa Filzah Faiza, Qiantika Ristya Salsabila
+Najwa Filzah Faiza, Qiantika Ristya Salsabila.
 
 **H﻿arga:** Rp. 70.000\
 \
