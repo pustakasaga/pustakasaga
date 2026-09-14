@@ -7,7 +7,7 @@ date: 2026-09-13T11:54:40.494Z
 
 **P﻿enulis:** M. Turhan Yani, Budi Santosa, Rianda Usmi, 
 Siti Maizul Habibah, Nadia Azzahra, 
-Indriani Hayu Kumalasari
+Indriani Hayu Kumalasari.
 
 **H﻿arga:** Rp. 70.000\
 \
