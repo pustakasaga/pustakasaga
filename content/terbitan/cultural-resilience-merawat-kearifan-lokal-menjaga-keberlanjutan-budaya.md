@@ -6,7 +6,7 @@ date: 2026-09-13T11:39:48.643Z
 ![](/images/uploads/isbn-cultural-resilience-merawat-kearifan-lokal-menjaga-keberlanjutan-budaya-copy.jpg)
 
 **P﻿enulis:** Hendri Irawan, Siti Maizul Habibah, Rianda Usmi, Listyaningsih, David Solagratia Gaspersz, 
-Cindy Adelia Ramadhani
+Cindy Adelia Ramadhani.
 
 **H﻿arga:** Rp. 70.000\
 \
