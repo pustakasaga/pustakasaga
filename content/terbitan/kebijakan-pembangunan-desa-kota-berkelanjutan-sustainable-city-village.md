@@ -7,7 +7,7 @@ date: 2026-09-13T11:48:36.280Z
 
 **P﻿enulis:** Rahmanu Wijaya, Raden Roro Nanik Setyowati, 
 Siti Maizul Habibah,  Listyaningsih, Vito Dafanda, 
-Syawa Aqilla Rendra Firmansyah
+Syawa Aqilla Rendra Firmansyah.
 
 **H﻿arga:** Rp. 70.000\
 \
