@@ -5,7 +5,7 @@ date: 2026-09-13T11:50:47.845Z
 ---
 ![](/images/uploads/isbn-dinamika-global-perubahan-sosial-dan-kearifan-lokal.jpg)
 
-**P﻿enulis:** Sarmini, Maya Mustika KS, Rianda Usmi, Siti Maizul Habibah, Yassir Maulana Alfito, Andi Towansiba
+**P﻿enulis:** Sarmini, Maya Mustika KS, Rianda Usmi, Siti Maizul Habibah, Yassir Maulana Alfito, Andi Towansiba.
 
 **H﻿arga:** Rp. 70.000\
 \
