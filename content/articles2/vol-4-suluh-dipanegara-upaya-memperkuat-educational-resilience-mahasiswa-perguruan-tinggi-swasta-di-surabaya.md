@@ -2,7 +2,7 @@
 layout: post
 title: "(Vol 4 SULUH DIPANEGARA: Upaya Memperkuat Educational Resilience
   Mahasiswa Perguruan Tinggi Swasta di Surabaya)"
-pdf: /images/uploads/2.-vol-upaya-memperkuat-educational-resilience-mhs-pt-swasta-di-sby.pdf
+pdf: /images/uploads/2.-upaya-memperkuat-educational-resilience-mhs-pt-swasta-di-sby.pdf
 date: 2026-09-19T22:05:42.274Z
 ---
 **Upaya Memperkuat Educational Resilience Mahasiswa Perguruan Tinggi Swasta di Surabaya**\
