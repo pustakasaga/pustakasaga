@@ -7,7 +7,8 @@ date: 2026-09-21T02:10:28.342Z
 
 **P﻿enulis:** Ratri Dwi Indriani, dr., SpAn., FIP., FIPP., DABRM
 
-**H﻿arga:** Rp. 70.000\
-\
-Buku ini membahas boikot dalam perspektif Islam dengan menguraikan pengertian, dasar hukum, etika, serta pertimbangan yang perlu diperhatikan dalam pelaksanaannya. Boikot tidak hanya dilihat sebagai tindakan menolak atau menghentikan dukungan terhadap suatu produk, layanan, atau pihak tertentu, tetapi juga sebagai fenomena sosial yang berkaitan dengan sikap, pilihan konsumsi, tanggung jawab moral, dan kepedulian terhadap persoalan yang lebih luas. Pembahasan mengaitkan prinsip-prinsip Islam seperti keadilan, kemaslahatan, tabayun, tanggung jawab, dan larangan berbuat zalim dengan praktik boikot dalam kehidupan masyarakat.
-	Buku ini juga membahas perkembangan gerakan boikot di tengah globalisasi dan pesatnya penggunaan media sosial. Arus informasi yang cepat membuat ajakan boikot dapat menyebar luas, tetapi sekaligus menuntut kecermatan dalam memeriksa fakta, memahami konteks, dan mempertimbangkan dampak yang ditimbulkan. Dengan memadukan perspektif hukum Islam, etika, sosial, ekonomi, dan tantangan global, buku ini mengajak pembaca memahami boikot secara kritis dan bertanggung jawab, serta menempatkan setiap tindakan dalam kerangka nilai Islam yang mengedepankan keadilan, kemanusiaan, dan kemaslahatan.
+**H﻿arga:** Rp. 70.000
+
+Buku ini membahas prinsip-prinsip dasar dan keterampilan utama dalam penanganan kondisi kegawatdaruratan yang membutuhkan tindakan cepat, tepat, dan sistematis. Pembahasan mencakup konsep dasar emergency care, pengenalan kondisi yang mengancam jiwa, penilaian awal pasien, prioritas tindakan, serta prinsip stabilisasi sebelum mendapatkan penanganan lebih lanjut. Materi disusun untuk membantu pembaca memahami langkah-langkah penting dalam menghadapi situasi darurat dengan tetap memperhatikan keselamatan pasien, penolong, dan lingkungan sekitar.
+
+Buku ini juga menguraikan berbagai keterampilan dasar dalam perawatan kegawatdaruratan, mulai dari pemeriksaan kondisi pasien, bantuan hidup dasar, pengelolaan jalan napas, penanganan gangguan pernapasan dan sirkulasi, hingga respons terhadap berbagai kondisi darurat yang sering ditemukan. Penyajian materi menekankan pemahaman konsep sekaligus penerapan keterampilan secara terstruktur, sehingga pembaca dapat membangun kesiapan dalam mengenali masalah, menentukan prioritas, dan memberikan pertolongan awal secara efektif dalam situasi kegawatdaruratan.
