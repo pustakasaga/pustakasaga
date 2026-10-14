@@ -4,11 +4,10 @@ title: PINTAR-TB (Panduan Herbal Adjuvan dan Literasi Radiologi untuk
   Penanggulangan TB)
 date: 2026-10-06T01:06:19.484Z
 ---
-![](/images/uploads/pintar-tb-panduan-herbal-adjuvan-dan-literasi-radiologi-untuk.jpg)
+![](/images/uploads/isbn-pintar-tb-panduan-herbal-adjuvan-dan-literasi-radiologi-untuk.jpg)
 
-**P﻿enulis:** Alifatus Wahyu Nur Ma’rifah, Aisyah Widayani, 
-Iif Hanifa Nurrosyidah, Rayhan Muhammad Rifky,
-Bagus Setiawan Ardiansyah, Aulia Rizki Azmi Azizi
+**P﻿enulis:** Alifatus Wahyu Nur Ma’rifah, S.Tr.Kes., M.T | 
+Aisyah Widayani, S.T., M.T  | Dr. Iif Hanifa Nurrosyidah 
 
 **H﻿arga:** Rp. 70.000\
 \
