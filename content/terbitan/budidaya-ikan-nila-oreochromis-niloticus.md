@@ -5,9 +5,7 @@ date: 2026-09-30T05:47:01.008Z
 ---
 ![](/images/uploads/isbn-budidaya-ikan-nila-oreochromis-niloticus.jpg)
 
-**P﻿enulis:** Muhammad Hanif Azhar; 
-Gigih Luhur Rifai; Devina Larasati; Nila Najwa; 
-Shabrina Putri Khodijah; Aurel Meita Permata
+**P﻿enulis:** Muhammad Hanif Azhar, S.Pi., M.Si., Ph.D.
 
 **H﻿arga:** Rp. 70.000\
 \
