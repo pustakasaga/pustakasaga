@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pengenalan Potensi Bahaya, Mitigasi Bencana, dan Upaya Pengendaliannya
-  diKawasan Ekowisata
+title: Pengenalan Potensi Bahaya, Mitigasi Bencana, dan Upaya Pengendaliannya di
+  Kawasan Ekowisata
 date: 2026-10-20T12:58:20.721Z
 ---
 ![](/images/uploads/isbn-pengenalan-potensi-bahaya.jpg)
