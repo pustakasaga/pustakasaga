@@ -6,7 +6,7 @@ date: 2026-10-20T12:58:20.721Z
 ---
 ![](/images/uploads/isbn-pengenalan-potensi-bahaya.jpg)
 
-**P﻿enulis:** Dr. Neffrety Nilamsari, S.Sos., M.Kes,
+**P﻿enulis:** Dr. Neffrety Nilamsari, S.Sos., M.Kes
 
 **H﻿arga:** Rp. 70.000\
 \
