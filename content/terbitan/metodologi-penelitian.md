@@ -3,9 +3,9 @@ layout: post
 title: "Metodologi Penelitian "
 date: 2026-10-28T21:51:53.126Z
 ---
-![]()
+![](/images/uploads/metodologi-penelitian.jpg)
 
-**P﻿enulis:** Tuti Nuriyati
+**P﻿enulis:** Tuti Nuriyati, M.Pd.
 
 
 
