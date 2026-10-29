@@ -5,8 +5,10 @@ date: 2026-10-29T01:03:44.358Z
 ---
 ![](/images/uploads/peran-il-27-dalam-infeksi-malaria.jpg)
 
-**P﻿enulis:** Prof. Heny Arwati, Dra., MSc., Ph.D.,
-Prof. Dr. Yoes Prijatna Dachlan, dr., M.Sc., SpParK
+**P﻿enulis:** Prof. Heny Arwati, Dra., M.Sc., Ph.D.,
+Prof. Dr. dr. Loeki Enggar Fitri, M.Kes., Sp.ParK., 
+Dr. Mufasirin, drh., M.Si., 
+Prof. Dr. dr. Yoes Prijatna Dachlan, M.Sc., SpParK.
 
 **H﻿arga:** Rp. 70.000\
 \
