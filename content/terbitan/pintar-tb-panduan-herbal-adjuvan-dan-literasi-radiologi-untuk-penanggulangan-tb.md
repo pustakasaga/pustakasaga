@@ -7,9 +7,9 @@ pdf: /images/uploads/pintar-tb_merged.pdf
 ---
 ![](/images/uploads/pintar-tb.jpg)
 
-**P﻿enulis:** Alifatus Wahyu Nur Ma’rifah, S.Tr.Kes., M.T. |
- Aisyah Widayani, S.T., M.T. | Dr. Hj. Hafidna Nurrosyidah | 
-Rayhan Muhammad Rifky | Bagus Setiawan Ardiansyah | 
+**P﻿enulis:** Alifatus Wahyu Nur Ma’rifah, S.Tr.Kes., M.T |
+Aisyah Widayani, S.T., M.T | Dr.Iif Hanifa Nurrosyidah |
+Bagus Setiawan Ardiansyah | Rayhan Muhammad Rifky |
 Aulia Rizki Azmi Azizi
 
 \
