@@ -6,7 +6,7 @@ date: 2026-10-30T06:55:35.844Z
 ---
 ![](/images/uploads/dari-laut-ke-pasar.jpg)
 
-**P﻿enulis:** Natalie christy Puan Rachnyputri,
+**P﻿enulis:** Natalie Christy Puan Rachnyputri,
 Nova Elisa Ederly, Muhammad Nur Ghoffar,
 Lailatul Lutfiyah, Budi Setyono
 
