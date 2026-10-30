@@ -5,7 +5,7 @@ title: PINTAR-TB (Panduan Herbal Adjuvan dan Literasi Radiologi untuk
 date: 2026-10-06T01:06:19.484Z
 pdf: /images/uploads/pintar-tb-2-40_merged.pdf
 ---
-![](/images/uploads/pintar-tb.jpg)
+![](/images/uploads/pintar-tb_5x.png)
 
 **P﻿enulis:** Alifatus Wahyu Nur Ma’rifah, S.Tr.Kes., M.T |
 Aisyah Widayani, S.T., M.T | Dr.Iif Hanifa Nurrosyidah |
