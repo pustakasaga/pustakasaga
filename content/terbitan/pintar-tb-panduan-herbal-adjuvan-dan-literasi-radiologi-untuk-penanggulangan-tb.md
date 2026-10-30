@@ -3,7 +3,7 @@ layout: post
 title: PINTAR-TB (Panduan Herbal Adjuvan dan Literasi Radiologi untuk
   Penanggulangan TB)
 date: 2026-10-06T01:06:19.484Z
-pdf: /images/uploads/pintar-tb_merged.pdf
+pdf: /images/uploads/pintar-tb-2-40_merged.pdf
 ---
 ![](/images/uploads/pintar-tb.jpg)
 
