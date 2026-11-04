@@ -6,7 +6,7 @@ date: 2026-11-04T01:37:34.057Z
 ---
 ![](/images/uploads/hukum-kewarisan-islam.jpg)
 
-**P﻿enulis:** Assoc. Prof. Dr. DianBerkah, S.HI, M.HI
+**P﻿enulis:** Assoc. Prof. Dr. Dian Berkah, S.HI, M.HI
 
 **H﻿arga:** Rp. 70.000\
 \
