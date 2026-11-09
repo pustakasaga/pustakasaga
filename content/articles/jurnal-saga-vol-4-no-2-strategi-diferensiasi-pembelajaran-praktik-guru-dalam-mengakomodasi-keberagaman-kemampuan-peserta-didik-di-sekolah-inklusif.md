@@ -1,0 +1,17 @@
+---
+layout: post
+title: "(Jurnal SAGA vol 4 : no 2)  STRATEGI DIFERENSIASI PEMBELAJARAN: PRAKTIK
+  GURU DALAM MENGAKOMODASI KEBERAGAMAN KEMAMPUAN PESERTA DIDIK DI SEKOLAH
+  INKLUSIF"
+pdf: /images/uploads/1.-strategi-diferensiasi-pembelajaran.pdf
+date: 2026-11-09T05:26:05.675Z
+---
+**STRATEGI DIFERENSIASI PEMBELAJARAN:
+PRAKTIK GURU DALAM MENGAKOMODASI KEBERAGAMAN KEMAMPUAN PESERTA DIDIK DI SEKOLAH INKLUSIF**\
+\
+Fitri Asmawati, M.Pd.
+*MIN 2 Kulon Progo*
+E-mail: fitriasmawati79@gmail.com
+
+**Jurnal SAGA vol 4 no 2 (Agustus-Desember 2026)**\
+ISSN: 3025-4752
