@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BECOMING A GLOBAL PLAYER, Panduan Strategis menjadiEksportir bagi UMKM
+title: BECOMING A GLOBAL PLAYER, Panduan Strategis menjadi Eksportir bagi UMKM
   dan Pemula
 date: 2026-11-16T02:13:03.113Z
 ---
