@@ -1,6 +1,7 @@
 ---
 layout: post
-title: SEPEDA MOTOR KLASIK DI INDONESIA SEJAK MASA KOLONIAL HINGGA MASA KINI
+title: "SEPEDA MOTOR KLASIK DI INDONESIA SEJAK MASA KOLONIAL HINGGA MASA KINI:
+  Sejarah, Kebijakan Pemerintah, Gaya Hidup, Hingga Historiopreneurship"
 date: 2026-11-18T07:17:57.087Z
 ---
 ![](/images/uploads/isbn-sepeda-motor-klasik.jpg)
